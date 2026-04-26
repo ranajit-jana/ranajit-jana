@@ -4,16 +4,19 @@
 
 ---
 
-### ☁️ Cloud Platforms
+### ☁️ Technology Ratings
 
 | Skill | Proficiency |
 |---|---|
-| AWS | ████████████ Expert |
-| Azure | ██████████░░ Advanced |
-| Multi-Cloud Architecture | ████████████ Expert |
-| Cloud Migration Frameworks | ████████████ Expert |
-| FinOps & Cost Optimization | ██████████░░ Advanced |
-| Savings Plans / Reserved Instances | ██████████░░ Advanced |
+| Architecture | ████████████ Expert |
+| Cloud | ████████████ Expert |
+| Containers | ████████████ Expert |
+| CI/CD | ████████████ Expert |
+| Security | ██████████░░ Advanced |
+| AI/ML | ███████░░░░░ Trained |
+| Gen-AI | ███████░░░░░ Trained |
+| Agentic-AI | ██████████░░ Advanced |
+
 
 ---
 
