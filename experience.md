@@ -7,10 +7,10 @@
 
 ### 📂 Domain Experience
 
-| | | | |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 |---|---|---|---|
-| Cybersecurity | Payments & Fintech | Banking | Supply Chain |
-| Manufacturing | CRM | Advertisement / Media | e-Commerce |
+| **Cybersecurity** | **Payments & Fintech** | **Banking** | **Supply Chain** |
+| **Manufacturing** | **CRM** | **Advertisement / Media** | **e-Commerce** |
 
 ---
 
