@@ -4,67 +4,15 @@
 
 ---
 
-### 🔒 Security & Compliance
+### 🔒 Security
 
-> MTech in Cybersecurity (REVA University, 2024) — security is a first-class concern across every layer of the stack: cluster networking, policy enforcement, service mesh, pipelines, and cloud posture.
-
----
-
-#### Cilium — eBPF-based Kubernetes Networking & Security
-
-Cilium is a CNCF-graduated CNI (Container Network Interface) plugin that replaces traditional iptables-based networking with **Linux eBPF**, pushing policy enforcement directly into the kernel for higher performance and deeper visibility.
-
-| Capability | Detail |
-|---|---|
-| **eBPF Networking** | Kernel-level packet processing; eliminates iptables overhead for large-scale clusters |
-| **Network Policy Enforcement** | L3/L4/L7 policies using Kubernetes labels and identities, not just IP addresses |
-| **Identity-Based Security** | Pod-to-pod communication governed by workload identity, not ephemeral IPs |
-| **Transparent Encryption** | WireGuard or IPsec-based node-to-node encryption with zero application changes |
-| **Hubble Observability** | Real-time network flow visibility, DNS query tracking, HTTP/gRPC tracing across services |
-| **Cluster Mesh** | Multi-cluster service discovery and policy enforcement across cloud boundaries |
-
-Cilium's identity-based model makes it a strong fit for zero-trust architectures where network segmentation must survive dynamic pod scheduling.
-
----
-
-#### Kyverno — Kubernetes-Native Policy Engine
-
-Kyverno is a CNCF policy engine that validates, mutates, and generates Kubernetes resources using **policies written as Kubernetes YAML** — no Rego or OPA required. It runs as an admission webhook, enforcing rules before resources are admitted to the cluster.
-
-| Capability | Detail |
-|---|---|
-| **Validation Policies** | Reject non-compliant resources: enforce resource limits, required labels, approved registries |
-| **Mutation Policies** | Auto-inject sidecars, add default labels/annotations, patch missing security contexts |
-| **Generation Policies** | Auto-create NetworkPolicies, ConfigMaps, or RBAC roles when a namespace is created |
-| **Image Signature Verification** | Enforce Sigstore/Cosign-signed images — blocks unsigned or tampered images at admission |
-| **Policy Reports** | Audit mode generates CRD-based reports for compliance dashboards without blocking workloads |
-| **GitOps Integration** | Policies stored as YAML in Git; enforced via CI/CD before cluster apply |
-
-Kyverno enables **policy-as-code** in GitOps workflows — security rules live alongside application manifests and are reviewed, versioned, and audited the same way as code.
-
----
-
-#### Istio — Service Mesh
-
-Istio is a CNCF service mesh that adds a transparent proxy layer (Envoy sidecar) to every pod, providing security, traffic control, and observability **without application code changes**.
-
-| Capability | Detail |
-|---|---|
-| **Mutual TLS (mTLS)** | Automatic certificate issuance and rotation; encrypts all service-to-service traffic; enforces zero-trust identity |
-| **Authorization Policies** | Fine-grained L7 access control: allow/deny based on service identity, HTTP method, path, headers |
-| **Traffic Management** | Canary releases, A/B testing, weighted routing, retries, timeouts, circuit breaking at the mesh level |
-| **Fault Injection** | Inject delays and errors into traffic for resilience testing without touching application code |
-| **Observability** | Automatic generation of metrics (Prometheus), distributed traces (Jaeger/Tempo), and access logs for every service call |
-| **Ingress / Egress Control** | Gateway-based north-south traffic management with TLS termination and routing rules |
-
-Used at Ondot Systems for the microservices and containerization strategy — Istio provided the security and observability layer across the entire service fleet without requiring individual services to implement them.
-
----
-
-#### Additional Security Practices
+MTech in Cybersecurity (REVA University, 2024) — security is a first-class concern across every layer of the stack: cluster networking, policy enforcement, service mesh, pipelines, and cloud posture.
 
 | Area | Detail |
 |---|---|
+| **Cilium** | CNCF-graduated eBPF-based CNI replacing iptables; enforces L3/L4/L7 network policies using workload identity, transparent WireGuard/IPsec encryption, real-time network flow visibility via Hubble, and multi-cluster policy enforcement across cloud boundaries |
+| **Kyverno** | Kubernetes-native CNCF policy engine; validates, mutates, and generates resources via admission webhook using plain YAML policies — enforces image signing (Cosign/Sigstore), resource limits, security contexts, and auto-generates NetworkPolicies; policy-as-code in GitOps workflows |
+| **Istio** | CNCF service mesh with Envoy sidecar; provides automatic mTLS for zero-trust service identity, fine-grained L7 authorization policies, canary/circuit-breaking traffic management, fault injection, and automatic Prometheus/trace observability — used at Ondot Systems across the full microservices fleet |
 | **DevSecOps Pipeline** | Security gates at every stage: SAST, container scan (Trivy), SBOM generation, supply chain signing *(MTech capstone)* |
 | **Container Security** | Distroless/minimal base images, read-only root filesystems, no-root enforcement via Kyverno |
 | **Web Security** | OWASP top-10 mitigations, WAF integration |
