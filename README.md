@@ -3,9 +3,7 @@
 ### Ranajit Jana
 <a href="https://www.linkedin.com/in/ranajitjana/"><img src="linkedin.png" alt="LinkedIn" width="16" style="vertical-align:middle;" /></a> LinkedIn : [in/ranajitjana](https://linkedin.com/in/ranajitjana)  |  📧 Email : ranajitjana@gmail.com  | 📍 Location : [Bangalore, India](https://maps.app.goo.gl/RsX67o8oCsbXemDr6)
 
-<hr width="80%" align="left" />
-
-
+---
 
 Senior Technology Leader with **25+ years** of experience building and scaling enterprise platforms across **Cloud, DevSecOps, Containers, Application Development, and AI-driven ecosystems**.  
 Recognized for delivering high-impact, customer-centric architectures across performance, resilience, cost optimization, and regulatory compliance — enabling secure, scalable, and market-ready products.
