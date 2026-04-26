@@ -5,7 +5,7 @@
 ### Ranajit Jana
 <a href="https://www.linkedin.com/in/ranajitjana/"><img src="linkedin.png" alt="LinkedIn" width="16" style="vertical-align:middle;" /></a> LinkedIn | [in/ranajitjana](https://linkedin.com/in/ranajitjana)  |  📧 Email | ranajitjana@gmail.com  | 📍 Location | [Bangalore, India](https://maps.app.goo.gl/RsX67o8oCsbXemDr6)
 
-<hr width="60%" align="left" />
+<hr width="80%" align="left" />
 
 
 
