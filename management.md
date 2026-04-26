@@ -33,8 +33,9 @@
   Recognize and reward top performers, address underperformance early, and maintain consistently high standards.
 
 - **Talent Density Over Team Size**  
-  Prioritize building high-quality teams over scaling headcount.  
-  Continuously raise the bar in hiring, mentoring, and performance expectations.
+  Prioritize building high-quality teams over scaling headcount — continuously raising the bar in hiring, mentoring, and performance expectations.  
+  Advocate adoption of AI-assisted development tools (e.g. Claude) for coding, debugging, and automation, alongside productivity tools like Beyond Compare.  
+  Leverage observability to drive elevated maintainability, enabling smaller, focused teams to operate with greater efficiency and confidence.
 
 - **Continuous Feedback & Transparency**  
   Maintain strong feedback loops with stakeholders and teams.  
