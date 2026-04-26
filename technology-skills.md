@@ -1,6 +1,6 @@
 ## Ranajit Jana — Technology Skills
 
-[Home](README.md) &nbsp;|&nbsp; [Experience](experience.md) &nbsp;|&nbsp; **Technology Skills** &nbsp;|&nbsp; [Management](management.md) &nbsp;|&nbsp; [Education](education.md)
+🏠 [Home](README.md) &nbsp;|&nbsp; 💼 [Experience](experience.md) &nbsp;|&nbsp; 🛠️ **Technology Skills** &nbsp;|&nbsp; 👥 [Management Skills](management.md) &nbsp;|&nbsp; 🎓 [Education](education.md)
 
 ---
 
@@ -12,67 +12,11 @@
 | Cloud | ████████████ Expert |
 | Containers | ████████████ Expert |
 | CI/CD | ████████████ Expert |
+| Development | ████████████ Expert |
 | Security | ██████████░░ Advanced |
+| Agentic-AI | ██████████░░ Advanced |
 | AI/ML | ███████░░░░░ Trained |
 | Gen-AI | ███████░░░░░ Trained |
-| Agentic-AI | ██████████░░ Advanced |
-
-
----
-
-### 🔧 DevSecOps & CI/CD
-
-`GitHub Actions` `Terraform` `Kubernetes` `Helm` `Argo CD` `Jenkins` `Ansible` `Docker` `Istio`  
-`Security Compliance` `SBOM` `Software Supply Chain Security` `Container Security` `Web Security`
-
-- Zero-downtime deployment strategies, rolling upgrades, blue/green
-- 100% security compliance across deployment layers
-- CI/CD pipeline design, standardization, and migration
-
----
-
-### 🤖 AI / ML & Generative AI
-
-`Agentic AI` `Claude Automations` `GenAI Frameworks` `LLM Integration`  
-`AI-Driven Code Generation` `AI-Driven Observability` `Arize Phoenix`
-
-- Built plugins, agents, and skills on Claude for DevOps automation
-- Cross-system log/event correlation using GenAI (Loki, CloudWatch, K8s)
-- Enterprise-specific automated code generation and tech stack upgrades
-- **~5–10x productivity improvements** in select engineering workflows
-
----
-
-### 🔭 Observability & Site Reliability Engineering
-
-`Grafana` `Loki` `Prometheus` `Datadog` `ELK Stack` `AWS CloudWatch` `Arize Phoenix`
-
-- Full-stack observability: logs, metrics, distributed traces
-- MTTR reduction by **~60–70%** through unified alerting and dashboards
-- Incident management, automated remediation foundations
-- SLA/SLO/SLI definition and adherence
-
----
-
-### ☕ Languages & Frameworks
-
-| Language / Framework | Context |
-|---|---|
-| Java / J2EE | 20+ years, core platform development |
-| Spring Boot | Microservices, REST APIs, event-driven apps |
-| Apache Camel | Integration, event-driven payments platform |
-| Bash / Shell Scripting | Cloud automation, infrastructure scripting |
-| REST APIs & API Gateways | Design, implementation, standardization |
-
----
-
-### 💾 Messaging & Databases
-
-**Messaging:** `Kafka` `RabbitMQ`  
-**NoSQL:** `Cassandra` `MongoDB`  
-**RDBMS:** PostgreSQL, MySQL, Oracle  
-**Caching:** In-memory caching systems, distributed cache  
-**ORM:** JPA / Hibernate
 
 ---
 
@@ -87,23 +31,8 @@
 - **Zero-Downtime Deployments** — rolling, blue/green, canary
 - **PaaS Design** — internal developer platforms, self-service deployments
 
----
-
-### 👥 Leadership & Program Management
-
-| Capability | Detail |
-|---|---|
-| Engineering Leadership | Led 25+ member cross-functional teams |
-| Program Management | End-to-end ownership: Dev, QA, DevOps, releases |
-| Technical Roadmaps | Architecture blueprints aligned to business objectives |
-| Stakeholder Management | Influencing clients and leadership to accelerate decisions |
-| Release Management | Biweekly cadence, schedule variance <15%, near-zero critical defects |
-| Hiring & Mentoring | Built and scaled high-performance engineering teams |
-| Agile / DevOps Delivery | Increased velocity ~20% through structured execution reviews |
 
 ---
----
-
 ### 🔒 Security
 
 MTech in Cybersecurity (REVA University, 2024) — security is a first-class concern across every layer of the stack: cluster networking, policy enforcement, service mesh, pipelines, and cloud posture.
@@ -121,9 +50,10 @@ MTech in Cybersecurity (REVA University, 2024) — security is a first-class con
 | **SSO / IAM** | SSO integration for enterprise platforms; AWS IRSA, Kubernetes RBAC, least-privilege IAM |
 | **Compliance** | Achieved 100% compliance across web, container, deployment, cloud, and supply chain layers at eSentire |
 
+
 ---
 
-### ☁️ AWS — Amazon Web Services
+### ☁️ Cloud - AWS — Amazon Web Services
 
 | Service / Area | Usage |
 |---|---|
@@ -140,7 +70,7 @@ MTech in Cybersecurity (REVA University, 2024) — security is a first-class con
 
 ---
 
-### ☁️ Azure — Microsoft Azure
+### ☁️ Cloud - Azure — Microsoft Azure
 
 | Service / Area | Usage |
 |---|---|
@@ -149,6 +79,67 @@ MTech in Cybersecurity (REVA University, 2024) — security is a first-class con
 | **Azure Messaging** | Event-driven architecture with Kafka/RabbitMQ on Azure |
 | **Azure Blob / Storage** | Artifact and data storage |
 | **Multi-Cloud Portability** | Architected cloud-agnostic Kubernetes platform to eliminate vendor lock-in |
+
+---
+
+### 🤖 AI / ML & Generative AI
+
+`Agentic AI` `Claude Automations` `GenAI Frameworks` `LLM Integration`  
+`AI-Driven Code Generation` `AI-Driven Observability` `Arize Phoenix`
+
+- Built plugins, agents, and skills on Claude for DevOps automation
+- Cross-system log/event correlation using GenAI (Loki, CloudWatch, K8s)
+- Enterprise-specific automated code generation and tech stack upgrades
+- **~5–10x productivity improvements** in select engineering workflows
+
+---
+
+### ⚙️ Containers and Kubernetes
+
+| Area | Detail |
+|---|---|
+| **Certification** | **CNCF Certified Kubernetes Administrator (CKA) — 2020** |
+| **Helm Charts** | Authored and standardized Helm charts for application onboarding; ~80% template reuse |
+| **Argo CD** | GitOps-based continuous delivery; declarative app sync and rollback |
+| **Istio** | Service mesh: mTLS, traffic management, observability, circuit breaking — see Security section above |
+| **Multi-Cluster** | Multi-region, multi-environment cluster strategy with isolated branch deployments |
+| **Kubernetes Security** | Pod Security Standards, RBAC, network policies, image scanning |
+| **Zero-Downtime Deployments** | Rolling updates, blue/green, canary release strategies |
+| **Auto-scaling** | HPA/VPA for workload-responsive scaling |
+---
+
+### 🔭 Observability & Site Reliability Engineering
+
+`Grafana` `Loki` `Prometheus` `Datadog` `ELK Stack` `AWS CloudWatch` `Arize Phoenix`
+
+- Full-stack observability: logs, metrics, distributed traces
+- MTTR reduction by **~60–70%** through unified alerting and dashboards
+- Incident management, automated remediation foundations
+- SLA/SLO/SLI definition and adherence
+
+---
+
+### 💾 Messaging & Databases
+
+**Messaging:** `Kafka` `RabbitMQ`  
+**NoSQL:** `Cassandra` `MongoDB`  
+**RDBMS:** PostgreSQL, MySQL, Oracle  
+**Caching:** In-memory caching systems, distributed cache  
+**ORM:** JPA / Hibernate
+
+---
+
+
+### 🔧 DevSecOps & CI/CD
+
+`GitHub Actions` `Terraform` `Kubernetes` `Helm` `Argo CD` `Jenkins` `Ansible` `Docker` `Istio`  
+`Security Compliance` `SBOM` `Software Supply Chain Security` `Container Security` `Web Security`
+
+- Zero-downtime deployment strategies, rolling upgrades, blue/green
+- 100% security compliance across deployment layers
+- CI/CD pipeline design, standardization, and migration
+
+
 
 ---
 
@@ -162,20 +153,7 @@ MTech in Cybersecurity (REVA University, 2024) — security is a first-class con
 | **Terraform + GitHub Actions** | Fully automated infra provisioning in CI/CD pipelines |
 | **New Region Deployments** | Automated region rollouts using Terraform + Claude-based agents |
 
----
 
-### ⚙️ Kubernetes
-
-| Area | Detail |
-|---|---|
-| **Certification** | **CNCF Certified Kubernetes Administrator (CKA) — 2020** |
-| **Helm Charts** | Authored and standardized Helm charts for application onboarding; ~80% template reuse |
-| **Argo CD** | GitOps-based continuous delivery; declarative app sync and rollback |
-| **Istio** | Service mesh: mTLS, traffic management, observability, circuit breaking — see Security section above |
-| **Multi-Cluster** | Multi-region, multi-environment cluster strategy with isolated branch deployments |
-| **Kubernetes Security** | Pod Security Standards, RBAC, network policies, image scanning |
-| **Zero-Downtime Deployments** | Rolling updates, blue/green, canary release strategies |
-| **Auto-scaling** | HPA/VPA for workload-responsive scaling |
 
 ---
 
@@ -259,23 +237,8 @@ MTech in Cybersecurity (REVA University, 2024) — security is a first-class con
 | **Python** | ML model development, automation scripting |
 | **Terraform** | IaC for multi-cloud provisioning |
 
----
 
-### 🏅 Certifications & Training
 
-| Certification | Year |
-|---|---|
-| **CNCF Certified Kubernetes Administrator (CKA)** | 2020 |
-| **Agentic AI Certification Training Course** | April 2026 |
-| **Hands-on ML and Generative AI** |  2026|
-| **Sun Certified Web Component Developer (SCWCD)** | 2005 |
-| **Sun Certified Java Programmer (SCJP)** | 2000 |
-
----
-
-### 📂 Domain Experience
-
-`Cybersecurity` `Payments & Fintech` `Banking` `Supply Chain` `Manufacturing` `CRM` `Advertisement / Media` `e-Commerce`
 
 ---
 

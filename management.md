@@ -1,7 +1,21 @@
 ## Ranajit Jana — Management
 
-[Home](README.md) &nbsp;|&nbsp; [Experience](experience.md) &nbsp;|&nbsp; [Technology Skills](technology-skills.md) &nbsp;|&nbsp; **Management** &nbsp;|&nbsp; [Education](education.md)
+🏠 [Home](README.md) &nbsp;|&nbsp; 💼 [Experience](experience.md) &nbsp;|&nbsp; 🛠️ [Technology Skills](technology-skills.md) &nbsp;|&nbsp; 👥 **Management Skills** &nbsp;|&nbsp; 🎓 [Education](education.md)
 
+
+---
+
+### 👥 Leadership & Program Management
+
+| Capability | Detail |
+|---|---|
+| Engineering Leadership | Led 25+ member cross-functional teams |
+| Program Management | End-to-end ownership: Dev, QA, DevOps, releases |
+| Technical Roadmaps | Architecture blueprints aligned to business objectives |
+| Stakeholder Management | Influencing clients and leadership to accelerate decisions |
+| Release Management | Biweekly cadence, schedule variance <15%, near-zero critical defects |
+| Hiring & Mentoring | Built and scaled high-performance engineering teams |
+| Agile / DevOps Delivery | Increased velocity ~20% through structured execution reviews |
 ---
 
 ### 👥 Team Leadership & Org Building
