@@ -4,7 +4,7 @@
 
 <hr width="60%" align="left" />
 
-**Home** &nbsp;|&nbsp; [Experience](experience.md) &nbsp;|&nbsp; [Skills](skills.md) &nbsp;|&nbsp; [Detailed Technologies](technologies.md) &nbsp;|&nbsp; [Management](management.md) &nbsp;|&nbsp; [Education](education.md)
+**Home** &nbsp;|&nbsp; [Experience](experience.md) &nbsp;|&nbsp; [Technology Skills](technology-skills.md) &nbsp;|&nbsp; [Management](management.md) &nbsp;|&nbsp; [Education](education.md)
 
 ---
 

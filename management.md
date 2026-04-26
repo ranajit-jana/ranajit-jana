@@ -1,6 +1,6 @@
 ## Ranajit Jana — Management
 
-[Home](README.md) &nbsp;|&nbsp; [Experience](experience.md) &nbsp;|&nbsp; [Skills](skills.md) &nbsp;|&nbsp; [Detailed Technologies](technologies.md) &nbsp;|&nbsp; **Management** &nbsp;|&nbsp; [Education](education.md)
+[Home](README.md) &nbsp;|&nbsp; [Experience](experience.md) &nbsp;|&nbsp; [Technology Skills](technology-skills.md) &nbsp;|&nbsp; **Management** &nbsp;|&nbsp; [Education](education.md)
 
 ---
 
@@ -97,4 +97,4 @@
 
 ---
 
-*[← Experience](experience.md) &nbsp;·&nbsp; [Skills →](skills.md)*
+*[← Experience](experience.md) &nbsp;·&nbsp; [Technology Skills →](technology-skills.md)*
