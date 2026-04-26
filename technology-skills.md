@@ -263,7 +263,8 @@ MTech in Cybersecurity (REVA University, 2024) — security is a first-class con
 | Certification | Year |
 |---|---|
 | **CNCF Certified Kubernetes Administrator (CKA)** | 2020 |
-| **Hands-on ML and Generative AI** | Recent |
+| **Agentic AI Certification Training Course** | April 2026 |
+| **Hands-on ML and Generative AI** |  2026|
 | **Sun Certified Web Component Developer (SCWCD)** | 2005 |
 | **Sun Certified Java Programmer (SCJP)** | 2000 |
 
@@ -281,7 +282,6 @@ MTech in Cybersecurity (REVA University, 2024) — security is a first-class con
 |---|---|
 | GitHub | [github.com/ranajit-jana](https://github.com/ranajit-jana) |
 | LinkedIn | [linkedin.com/in/ranajitjana](https://linkedin.com/in/ranajitjana) |
-| BrightTalk Talk | [brighttalk.com/webcast/16135/307311](https://www.brighttalk.com/webcast/16135/307311) |
 
 ---
 
