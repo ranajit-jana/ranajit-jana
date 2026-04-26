@@ -1,5 +1,3 @@
-<img src="RanajitJana.jpg" alt="Ranajit Jana" width="75" align="right" />
-
 🏠 **Home** &nbsp;|&nbsp; 💼 [Experience](experience.md) &nbsp;|&nbsp; 🛠️ [Technology Skills](technology-skills.md) &nbsp;|&nbsp; 👥 [Management Skills](management.md) &nbsp;|&nbsp; 🎓 [Education](education.md)
 
 ### Ranajit Jana
