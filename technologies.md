@@ -4,6 +4,77 @@
 
 ---
 
+### 🔒 Security & Compliance
+
+> MTech in Cybersecurity (REVA University, 2024) — security is a first-class concern across every layer of the stack: cluster networking, policy enforcement, service mesh, pipelines, and cloud posture.
+
+---
+
+#### Cilium — eBPF-based Kubernetes Networking & Security
+
+Cilium is a CNCF-graduated CNI (Container Network Interface) plugin that replaces traditional iptables-based networking with **Linux eBPF**, pushing policy enforcement directly into the kernel for higher performance and deeper visibility.
+
+| Capability | Detail |
+|---|---|
+| **eBPF Networking** | Kernel-level packet processing; eliminates iptables overhead for large-scale clusters |
+| **Network Policy Enforcement** | L3/L4/L7 policies using Kubernetes labels and identities, not just IP addresses |
+| **Identity-Based Security** | Pod-to-pod communication governed by workload identity, not ephemeral IPs |
+| **Transparent Encryption** | WireGuard or IPsec-based node-to-node encryption with zero application changes |
+| **Hubble Observability** | Real-time network flow visibility, DNS query tracking, HTTP/gRPC tracing across services |
+| **Cluster Mesh** | Multi-cluster service discovery and policy enforcement across cloud boundaries |
+
+Cilium's identity-based model makes it a strong fit for zero-trust architectures where network segmentation must survive dynamic pod scheduling.
+
+---
+
+#### Kyverno — Kubernetes-Native Policy Engine
+
+Kyverno is a CNCF policy engine that validates, mutates, and generates Kubernetes resources using **policies written as Kubernetes YAML** — no Rego or OPA required. It runs as an admission webhook, enforcing rules before resources are admitted to the cluster.
+
+| Capability | Detail |
+|---|---|
+| **Validation Policies** | Reject non-compliant resources: enforce resource limits, required labels, approved registries |
+| **Mutation Policies** | Auto-inject sidecars, add default labels/annotations, patch missing security contexts |
+| **Generation Policies** | Auto-create NetworkPolicies, ConfigMaps, or RBAC roles when a namespace is created |
+| **Image Signature Verification** | Enforce Sigstore/Cosign-signed images — blocks unsigned or tampered images at admission |
+| **Policy Reports** | Audit mode generates CRD-based reports for compliance dashboards without blocking workloads |
+| **GitOps Integration** | Policies stored as YAML in Git; enforced via CI/CD before cluster apply |
+
+Kyverno enables **policy-as-code** in GitOps workflows — security rules live alongside application manifests and are reviewed, versioned, and audited the same way as code.
+
+---
+
+#### Istio — Service Mesh
+
+Istio is a CNCF service mesh that adds a transparent proxy layer (Envoy sidecar) to every pod, providing security, traffic control, and observability **without application code changes**.
+
+| Capability | Detail |
+|---|---|
+| **Mutual TLS (mTLS)** | Automatic certificate issuance and rotation; encrypts all service-to-service traffic; enforces zero-trust identity |
+| **Authorization Policies** | Fine-grained L7 access control: allow/deny based on service identity, HTTP method, path, headers |
+| **Traffic Management** | Canary releases, A/B testing, weighted routing, retries, timeouts, circuit breaking at the mesh level |
+| **Fault Injection** | Inject delays and errors into traffic for resilience testing without touching application code |
+| **Observability** | Automatic generation of metrics (Prometheus), distributed traces (Jaeger/Tempo), and access logs for every service call |
+| **Ingress / Egress Control** | Gateway-based north-south traffic management with TLS termination and routing rules |
+
+Used at Ondot Systems for the microservices and containerization strategy — Istio provided the security and observability layer across the entire service fleet without requiring individual services to implement them.
+
+---
+
+#### Additional Security Practices
+
+| Area | Detail |
+|---|---|
+| **DevSecOps Pipeline** | Security gates at every stage: SAST, container scan (Trivy), SBOM generation, supply chain signing *(MTech capstone)* |
+| **Container Security** | Distroless/minimal base images, read-only root filesystems, no-root enforcement via Kyverno |
+| **Web Security** | OWASP top-10 mitigations, WAF integration |
+| **Supply Chain Security** | SBOM (Software Bill of Materials), Cosign image signing, Kyverno signature enforcement |
+| **PII Compliance** | Multi-tenancy data isolation, PII detection (MS Presidio + LLM), data obfuscation *(MTech capstone, patent: 202441078002)* |
+| **SSO / IAM** | SSO integration for enterprise platforms; AWS IRSA, Kubernetes RBAC, least-privilege IAM |
+| **Compliance** | Achieved 100% compliance across web, container, deployment, cloud, and supply chain layers at eSentire |
+
+---
+
 ### ☁️ AWS — Amazon Web Services
 
 | Service / Area | Usage |
@@ -52,7 +123,7 @@
 | **Certification** | **CNCF Certified Kubernetes Administrator (CKA) — 2020** |
 | **Helm Charts** | Authored and standardized Helm charts for application onboarding; ~80% template reuse |
 | **Argo CD** | GitOps-based continuous delivery; declarative app sync and rollback |
-| **Istio** | Service mesh: traffic management, mTLS, observability, circuit breaking |
+| **Istio** | Service mesh: mTLS, traffic management, observability, circuit breaking — see Security section above |
 | **Multi-Cluster** | Multi-region, multi-environment cluster strategy with isolated branch deployments |
 | **Kubernetes Security** | Pod Security Standards, RBAC, network policies, image scanning |
 | **Zero-Downtime Deployments** | Rolling updates, blue/green, canary release strategies |
@@ -102,21 +173,6 @@
 | **Datadog** | APM, infrastructure monitoring, SLA dashboards (Ondot) |
 | **AWS CloudWatch** | Cloud-native log ingestion and alerting for AWS workloads |
 | **Arize Phoenix** | LLM / ML model observability |
-
----
-
-### 🔒 Security & Compliance
-
-| Area | Detail |
-|---|---|
-| **DevSecOps Pipeline** | Security embedded across every stage: SAST, container scan, SBOM, supply chain *(MTech capstone)* |
-| **Container Security** | Image scanning, distroless/minimal base images, runtime policies |
-| **Web Security** | OWASP top-10 mitigations, WAF integration |
-| **Supply Chain Security** | SBOM generation, signed images, policy-as-code |
-| **PII Compliance** | Multi-tenancy data isolation, PII detection (Presidio), data obfuscation |
-| **SSO / IAM** | SSO integration for enterprise platforms; IRSA, RBAC, least-privilege IAM |
-| **Compliance Frameworks** | Achieved 100% compliance across deployment and cloud layers at eSentire |
-| **MTech Specialization** | MTech in Cybersecurity — REVA University (2024) |
 
 ---
 
