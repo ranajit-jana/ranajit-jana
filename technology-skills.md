@@ -35,13 +35,16 @@
 
 - **IDE:** VS Code, IntelliJ, Eclipse
 - **Agents:** Claude, Claude Code, Copilot, Copilot CLI
+- **ITIL:** opsGenie
+- **Task Tracking:** Jira
 
 ---
 
 ### 🔒 Security
 
 - **Container Network Security:** Cilium Network Policies
-- **Container Security:** Pod Security Admission, Linux Capabilities, Distroless images, External Secret Operator (ESO)
+- **Container Security:** Pod Security Admission, Service Accounts, Linux Capabilities, Distroless images
+- **Secrets Management:** External Secret Operator (ESO)
 - **Policy Enforcement:** Kyverno, Admission Controller
 - **Encryption:** Asymmetric/Symmetric Encryption, mTLS, AWS KMS/HSM, OpenSSL, Azure KeyVault
 - **Web Security:** OWASP top-10, WAF integration
@@ -55,20 +58,17 @@
 
 ### ☁️ Cloud
 
-- **Kubernetes:** EKS (multi-cluster, multi-region), AKS (payments platform)
+- **Kubernetes:** EKS , AKS
 - **Compute:** EC2, Auto Scaling Groups, Lambda
 - **Storage:** S3, EBS, EFS, RDS, PostgreSQL
-- **Networking:** VPC, Internet Gateway, VPC Endpoints, API Gateway, Transit Gateway, VPC Peering, NACL, Route 53, AWS Load Balancer, CloudFront, WAF, Netbox IP Management
+- **Networking:** VPC, Internet Gateway, VPC Endpoints, API Gateway, Transit Gateway, VPC Peering, NACL, Route 53, AWS Load Balancer, CloudFront, Netbox IP Management
 - **Messaging:** SNS, SQS, Kinesis
 - **Caching:** ElastiCache
 - **Monitoring:** CloudWatch, CloudTrail
 - **Secrets & Config:** Secrets Manager, SSM Parameter Store
-- **IAM & Security:** AWS IAM, IRSA, SCP, GuardDuty
-- **FinOps:** Savings Plans, Reserved Instances, Cost Explorer — ~15% annual cost reduction
-- **Azure Identity:** Entra ID (team & access management), App Registrations (SSO)
+- **IAM & Security:** AWS IAM, IRSA, SCP, GuardDuty, Azure Entra, Azure App Registrations, WAF
+- **FinOps:** Savings Plans, Reserved Instances, Cost Explorer, QuickSight
 - **AI/ML:** Bedrock
-- **Analytics:** QuickSight
-- **Multi-Region:** Automated region deployments via Claude-based agents + Terraform
 
 ---
 
@@ -77,8 +77,7 @@
 - **Claude Automations:** Built plugins, agents, and skills on Claude for DevOps automation
 - **Agentic Frameworks:** LangChain, LangGraph, Claude SDK, AutoGen, CrewAI, Agno (PhiData)
 - **PII Detection:** Microsoft Presidio
-- **ML Frameworks:** Scikit-learn, TensorFlow (Python)
-- **Productivity Impact:** ~5–10x productivity improvements in select engineering workflows
+- **ML:** Scikit-learn, TensorFlow (Python)
 
 ---
 
@@ -119,12 +118,10 @@
 ### 🔧 DevSecOps & CI/CD
 
 - **CI/CD Platform:** GitHub Actions, reusable workflows
-- **Code Quality:** SonarQube — static analysis, quality gates in pipelines
-- **Artifacts:** Nexus — artifact repository management
-- **Container Scanning:** Trivy — image vulnerability scanning in release pipelines
-- **Supply Chain:** SBOM generation, Cosign image signing
-- **Deployments:** Zero-downtime rolling, blue/green, canary strategies
-- **Compliance:** 100% security compliance across all deployment layers
+- **Code Quality:** SonarQube, Synk
+- **Artifacts:** Nexus, Artifactory
+- **Container Scanning:** Trivy
+- **Deployments:** Argo CD
 
 ---
 
@@ -136,7 +133,7 @@
 - **Pipeline Integration:** Terraform + GitHub Actions — fully automated infra provisioning
 - **New Regions:** Automated region rollouts via Terraform + Claude-based agents
 - **Ansible:** Infrastructure provisioning and configuration management
-- **Scripting:** Bash/Shell — cloud automation, Kubernetes scripting, pipeline scripting
+- **Scripting:** Bash/Shell, cloud automation, Kubernetes scripting, pipeline scripting
 - **Python:** ML development, automation scripting
 
 ---
