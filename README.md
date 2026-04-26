@@ -1,6 +1,6 @@
 <img src="RanajitJana.jpg" alt="Ranajit Jana" width="75" align="right" />
 
-## Ranajit Jana — Senior Technology Leader
+### Ranajit Jana — Senior Technology Leader
 
 <hr width="40%" align="left" />
 
