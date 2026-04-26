@@ -1,4 +1,4 @@
-🏠 **Home** &nbsp;|&nbsp; 💼 [Experience](experience.md) &nbsp;|&nbsp; 🛠️ [Technology Skills](technology-skills.md) &nbsp;|&nbsp; 👥 [Management Skills](management.md) &nbsp;|&nbsp; 🎓 [Education](education.md)
+🏠 **Home** &nbsp;|&nbsp; 💼 [Experience](experience.md) &nbsp;|&nbsp; 👥 [Management Skills](management.md) &nbsp;|&nbsp; 🛠️ [Technology Skills](technology-skills.md) &nbsp;|&nbsp; 🎓 [Education](education.md)
 
 ### Ranajit Jana
 <a href="https://www.linkedin.com/in/ranajitjana/"><img src="linkedin.png" alt="LinkedIn" width="16" style="vertical-align:middle;" /></a> LinkedIn : [in/ranajitjana](https://linkedin.com/in/ranajitjana)  |  📧 Email : ranajitjana@gmail.com  | 📍 Location : [Bangalore, India](https://maps.app.goo.gl/RsX67o8oCsbXemDr6)

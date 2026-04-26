@@ -1,4 +1,4 @@
-[Home](README.md) &nbsp;|&nbsp; [Experience](experience.md) &nbsp;|&nbsp; **Technology Skills** &nbsp;|&nbsp; [Management](management.md) &nbsp;|&nbsp; [Education](education.md)
+🏠 [Home](README.md) &nbsp;|&nbsp; 💼 [Experience](experience.md) &nbsp;|&nbsp; 👥 [Management Skills](management.md) &nbsp;|&nbsp; 🛠️ **Technology Skills** &nbsp;|&nbsp; 🎓 [Education](education.md)
 
 ---
 
@@ -158,4 +158,4 @@
 
 ---
 
-*[← Experience](experience.md) &nbsp;·&nbsp; [Management →](management.md)*
+*[← Management Skills](management.md) &nbsp;·&nbsp; [Education →](education.md)*

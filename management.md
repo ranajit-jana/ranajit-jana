@@ -1,6 +1,6 @@
 ## Ranajit Jana — Management Skills
 
-🏠 [Home](README.md) &nbsp;|&nbsp; 💼 [Experience](experience.md) &nbsp;|&nbsp; 🛠️ [Technology Skills](technology-skills.md) &nbsp;|&nbsp; 👥 **Management Skills** &nbsp;|&nbsp; 🎓 [Education](education.md)
+🏠 [Home](README.md) &nbsp;|&nbsp; 💼 [Experience](experience.md) &nbsp;|&nbsp; 👥 **Management Skills** &nbsp;|&nbsp; 🛠️ [Technology Skills](technology-skills.md) &nbsp;|&nbsp; 🎓 [Education](education.md)
 
 ---
 
