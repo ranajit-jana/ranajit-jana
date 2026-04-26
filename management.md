@@ -19,7 +19,7 @@
   Embed security practices across the SDLC — design reviews, secure coding, pipeline checks, and production controls.
 
 - **Outcome-Driven Execution**  
-  Drive teams to deliver KPI-driven, measurable **customer and business outcomes**, not just feature completion.  
+  Partner closely with VP Technology and CTO to align on expectations and define measurable outcomes. Drive teams to deliver KPI-driven, measurable **customer and business outcomes**, not just feature completion.  
   Anchor execution on customer impact — adoption, experience, and value delivered.
 
 - **Talent Density Over Team Size**  
