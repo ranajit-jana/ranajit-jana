@@ -20,7 +20,7 @@
 
 | Capability | Detail |
 |---|---|
-| **Team Scale** | Scaled and led high-performance engineering teams of **25+ members** across Dev, QA, DevOps, and UI |
+| **Scaling Technology Team** | Scaled and led high-performance engineering teams of **25+ members** across Dev, QA, DevOps, and UI |
 | **Cross-Functional Ownership** | End-to-end program execution — requirements through production support across all engineering disciplines |
 | **Hiring** | Enabled hiring pipelines; evaluated and onboarded engineers aligned to team capability needs |
 | **Mentoring** | Mentored engineers across projects at Dell, MediaOcean, Wipro, Ondot, Volante, and eSentire |
