@@ -1,6 +1,4 @@
-## Ranajit Jana — Technology Skills
-
-🏠 [Home](README.md) &nbsp;|&nbsp; 💼 [Experience](experience.md) &nbsp;|&nbsp; 🛠️ **Technology Skills** &nbsp;|&nbsp; 👥 [Management Skills](management.md) &nbsp;|&nbsp; 🎓 [Education](education.md)
+[Home](README.md) &nbsp;|&nbsp; [Experience](experience.md) &nbsp;|&nbsp; **Technology Skills** &nbsp;|&nbsp; [Management](management.md) &nbsp;|&nbsp; [Education](education.md)
 
 ---
 
@@ -53,11 +51,11 @@ MTech in Cybersecurity (REVA University, 2024) — security is a first-class con
 
 ---
 
-### ☁️ Cloud - AWS — Amazon Web Services
-
+### ☁️ Cloud 
 | Service / Area | Usage |
 |---|---|
 | **EKS** (Elastic Kubernetes Service) | Primary Kubernetes platform; multi-cluster, multi-region deployments |
+| **AKS** (Azure Kubernetes Service) | Kubernetes orchestration for payments platform (Volante) |
 | **EC2** | Compute for workloads and build infrastructure |
 | **S3** | Object storage, artifact storage, log archival |
 | **CloudWatch** | Log ingestion, metrics, alarms; cross-system correlation with GenAI |
@@ -67,20 +65,10 @@ MTech in Cybersecurity (REVA University, 2024) — security is a first-class con
 | **Cost Explorer / Budgets** | Resource attribution, cost monitoring, quarterly optimization reviews |
 | **Multi-Region** | New region deployments automated via Claude-based automation agents |
 | **VPC / Networking** | Secure network architecture for cloud-native workloads |
-
+| **Azure Entra** | Managing teams and access with Azure |
+| **Azure App Registrations** | Single Sign on with Azure  |
 ---
 
-### ☁️ Cloud - Azure — Microsoft Azure
-
-| Service / Area | Usage |
-|---|---|
-| **AKS** (Azure Kubernetes Service) | Kubernetes orchestration for payments platform (Volante) |
-| **Azure DevOps / Pipelines** | CI/CD integration for build and release |
-| **Azure Messaging** | Event-driven architecture with Kafka/RabbitMQ on Azure |
-| **Azure Blob / Storage** | Artifact and data storage |
-| **Multi-Cloud Portability** | Architected cloud-agnostic Kubernetes platform to eliminate vendor lock-in |
-
----
 
 ### 🤖 AI / ML & Generative AI
 
@@ -232,7 +220,7 @@ MTech in Cybersecurity (REVA University, 2024) — security is a first-class con
 
 | Tool | Usage |
 |---|---|
-| **Ansible** | Infrastructure provisioning, configuration management (Wipro PaaS, Ondot) |
+| **Ansible** | Infrastructure provisioning, configuration management |
 | **Bash / Shell** | Cloud automation, Kubernetes scripting, pipeline scripting |
 | **Python** | ML model development, automation scripting |
 | **Terraform** | IaC for multi-cloud provisioning |
