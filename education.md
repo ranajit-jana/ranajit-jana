@@ -26,7 +26,7 @@
 **Malnad College of Engineering, University of Mysore**  
 *March 1996 &nbsp;·&nbsp; [mcehassan.ac.in](https://www.mcehassan.ac.in/)*
 
-Foundation degree in Electronics & Communication Engineering with understanding of Analog and Digital electronics, Communication Technologies, Microprocessor programming, Digital Signal Processing, Basic and Fortran programming.
+Bachelors degree in Electronics & Communication Engineering with understanding of Analog and Digital electronics, Communication Technologies, Microprocessor programming, Digital Signal Processing, Basic and Fortran programming.
 
 ---
 
