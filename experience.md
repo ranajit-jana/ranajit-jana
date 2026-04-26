@@ -2,6 +2,16 @@
 
 [Home](README.md) &nbsp;|&nbsp; **Experience** &nbsp;|&nbsp; [Technology Skills](technology-skills.md) &nbsp;|&nbsp; [Management](management.md) &nbsp;|&nbsp; [Education](education.md)
 
+
+---
+
+### 📂 Domain Experience
+
+| | | | |
+|---|---|---|---|
+| Cybersecurity | Payments & Fintech | Banking | Supply Chain |
+| Manufacturing | CRM | Advertisement / Media | e-Commerce |
+
 ---
 
 ### Principal Software Engineer — eSentire
