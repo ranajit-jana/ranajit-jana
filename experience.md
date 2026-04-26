@@ -7,18 +7,18 @@
 
 ### 📂 Domain Experience
 
-<table>
+<table style="border-collapse: collapse;">
 <tr>
-<td><b>Cybersecurity</b></td>
-<td><b>Payments &amp; Fintech</b></td>
-<td><b>Banking</b></td>
-<td><b>Supply Chain</b></td>
+<td style="border: 1px solid #ccc; padding: 4px 10px;"><b>Cybersecurity</b></td>
+<td style="border: 1px solid #ccc; padding: 4px 10px;"><b>Payments &amp; Fintech</b></td>
+<td style="border: 1px solid #ccc; padding: 4px 10px;"><b>Banking</b></td>
+<td style="border: 1px solid #ccc; padding: 4px 10px;"><b>Supply Chain</b></td>
 </tr>
 <tr>
-<td><b>Manufacturing</b></td>
-<td><b>CRM</b></td>
-<td><b>Advertisement / Media</b></td>
-<td><b>e-Commerce</b></td>
+<td style="border: 1px solid #ccc; padding: 4px 10px;"><b>Manufacturing</b></td>
+<td style="border: 1px solid #ccc; padding: 4px 10px;"><b>CRM</b></td>
+<td style="border: 1px solid #ccc; padding: 4px 10px;"><b>Advertisement / Media</b></td>
+<td style="border: 1px solid #ccc; padding: 4px 10px;"><b>e-Commerce</b></td>
 </tr>
 </table>
 
