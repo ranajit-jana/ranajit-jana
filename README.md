@@ -1,7 +1,7 @@
 <img src="RanajitJana.jpg" alt="Ranajit Jana" width="75" align="right" />
 
 ### Ranajit Jana
-🔗 LinkedIn | [in/ranajitjana](https://linkedin.com/in/ranajitjana)  |  📧 Email | ranajitjana@gmail.com  | 📍 Location | Bangalore, India 
+<img src="linkedin.png" alt="LinkedIn" width="16" style="vertical-align:middle;" /> LinkedIn | [in/ranajitjana](https://linkedin.com/in/ranajitjana)  |  📧 Email | ranajitjana@gmail.com  | 📍 Location | Bangalore, India 
 
 <hr width="60%" align="left" />
 
