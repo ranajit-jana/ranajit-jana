@@ -20,7 +20,7 @@
 | **Network & Infrastructure Security** | Networking and infrastructure security — firewalls, IDS/IPS, segmentation, secure design |
 | **Security Engineering** | Cryptography and its applications, Blockchain security fundamentals |
 | **Application Security** | Web Application Security, OWASP Top 10 — secure SDLC, code review, testing |
-| **GRC** (Governance, Risk & Compliance) | Cyber Laws, Data Privacy regulations (GDPR, CCPA, HIPAA, Personal Data Protection), OS-level security hardening, compliance frameworks — ISO 27001, NIST, PCI DSS, IT Act |
+| **Governance, Risk & Compliance** | Cyber Laws, Data Privacy regulations (GDPR, CCPA, HIPAA, Personal Data Protection), OS-level security hardening, compliance frameworks — ISO 27001, NIST, PCI DSS, IT Act |
 
 ---
 
