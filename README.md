@@ -2,7 +2,7 @@
 
 ### Ranajit Jana — Senior Technology Leader
 
-<hr width="40%" align="left" />
+<hr width="50%" align="left" />
 
 **Home** &nbsp;|&nbsp; [Experience](experience.md) &nbsp;|&nbsp; [Skills](skills.md) &nbsp;|&nbsp; [Detailed Technologies](technologies.md) &nbsp;|&nbsp; [Education](education.md)
 
