@@ -11,8 +11,8 @@
 
 ---
 
-> Senior Technology Leader with **25+ years** of experience building and scaling enterprise platforms across **Cloud, DevSecOps, and AI-driven ecosystems**.  
-> Recognized for delivering high-impact, customer-centric architectures across performance, resilience, cost optimization, and regulatory compliance — enabling secure, scalable, and market-ready products.
+Senior Technology Leader with **25+ years** of experience building and scaling enterprise platforms across **Cloud, DevSecOps, and AI-driven ecosystems**.  
+Recognized for delivering high-impact, customer-centric architectures across performance, resilience, cost optimization, and regulatory compliance — enabling secure, scalable, and market-ready products.
 
 ---
 
