@@ -37,6 +37,7 @@
 - **Agents:** Claude, Claude Code, Copilot, Copilot CLI
 - **ITIL:** opsGenie
 - **Task Tracking:** Jira
+- **IP Management:** NetBox
 
 ---
 
@@ -61,7 +62,7 @@
 - **Kubernetes:** EKS , AKS
 - **Compute:** EC2, Auto Scaling Groups, Lambda
 - **Storage:** S3, EBS, EFS, RDS, PostgreSQL
-- **Networking:** VPC, Internet Gateway, VPC Endpoints, API Gateway, Transit Gateway, VPC Peering, NACL, Route 53, AWS Load Balancer, CloudFront, Netbox IP Management
+- **Networking:** VPC, Subnets, Internet Gateway, VPC Endpoints, API Gateway, Transit Gateway, VPC Peering, NACL, Route 53, AWS Load Balancer, CloudFront, Netbox IP Management
 - **Messaging:** SNS, SQS, Kinesis
 - **Caching:** ElastiCache
 - **Monitoring:** CloudWatch, CloudTrail
