@@ -4,9 +4,7 @@
 
 ---
 
-<p align="center">
-  <img src="RanajitJana.jpg" alt="Ranajit Jana" width="160" style="border-radius: 50%;" />
-</p>
+<img src="RanajitJana.jpg" alt="Ranajit Jana" width="90" align="left" style="margin: 0 16px 8px 0; border-radius: 8px;" />
 
 > Senior Technology Leader with **25+ years** of experience building and scaling enterprise platforms across **Cloud, DevSecOps, and AI-driven ecosystems**.  
 > Recognized for delivering high-impact, customer-centric architectures across performance, resilience, cost optimization, and regulatory compliance — enabling secure, scalable, and market-ready products.
