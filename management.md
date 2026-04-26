@@ -21,11 +21,9 @@
 
 | Capability | Detail |
 |---|---|
-| **Agile Methodology** | Practiced **Agile** across all engineering teams — iterative delivery, sprint planning, backlog grooming, retrospectives, and continuous improvement cycles embedded into team cadence |
-| **Biweekly Releases** | Sustained a **biweekly release cadence** — consistent, predictable delivery across Dev, QA, and CI pipelines with automated gates at every stage |
 | **End-to-End Ownership** | Governed the full product lifecycle: requirements → design → development → QA → release → production support |
 | **Schedule Variance** | Maintained delivery variance **below ~15%** through structured execution reviews and critical path management |
-| **Release Management** | Owned release planning, coordination, and post-release support for core platform and application teams |
+| **Release Management** | Practiced **Agile** delivery with sustained **biweekly release cadence** — sprint planning, backlog grooming, retrospectives, and automated CI/CD gates across Dev, QA, and pipelines; owned release planning, coordination, and post-release support |
 | **Production Stability** | Achieved **near-zero critical production defects** and reduced production incidents by **~30%** |
 | **NFR Governance** | Drove non-functional requirements across resilience, security, observability, PII compliance, and performance |
 
