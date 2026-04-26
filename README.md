@@ -19,7 +19,7 @@ Recognized for delivering high-impact, customer-centric architectures across per
 **🏗️ Technology Architect**  
 Specializes in cloud-native systems with 99% component availability and 90% system availability, improved workload performance, and significant MTTR reduction through resilient observability and alerting. Delivered CAPEX savings by adopting open-source technologies and licensing optimization.
 
-**🤖 Applied GenAI & Agentic AI**  
+**🤖 Agentic AI**  
 Built frameworks for code generation, tech stack upgrades, and operations workflow transformation — enabling intelligent cross-system log/event analysis and automated enterprise-specific code generation, driving **~5–10x productivity improvements** in select workflows.
 
 **🗺️ Technology Blueprints & Roadmaps**  
