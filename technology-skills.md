@@ -29,134 +29,132 @@
 - **Zero-Downtime Deployments** — rolling, blue/green, canary
 - **PaaS Design** — internal developer platforms, self-service deployments
 
+---
 
 ### ☕ Developer Environment
 
-**IDE:** VS Code, IntelliJ, Eclipse
-**Agents:** Claude, Claude Code, Copilot, Copilot Cli
+- **IDE:** VS Code, IntelliJ, Eclipse
+- **Agents:** Claude, Claude Code, Copilot, Copilot CLI
 
 ---
 
 ### 🔒 Security
 
-**Container Network Security:** Cilium Network Policies
-**Container Security:** Pod Security Admission, Linux Capabilities, Distroless images, External Secret Operator (ESO)
-**Policy Enforcement:** Kyverno, Admission Controller
-**Encryption:** Asymmetric/Symmetric Encryption, mTLS, AWS KMS/HSM, OpenSSL, Azure KeyVault
-**Web Security:** OWASP top-10, WAF integration
-**Supply Chain Security:** SBOM, Cosign image signing, Kyverno signature enforcement
-**Scanning & SAST:** Snyk, Trivy, GitHub Security, StepCA
-**Protocols:** SSO, OAuth, Azure App Registration, KeyCloak, Okta
-**IAM:** AWS IAM, AWS IRSA, Kubernetes RBAC
-**Compliance:** PCI-DSS, ISO 27001
+- **Container Network Security:** Cilium Network Policies
+- **Container Security:** Pod Security Admission, Linux Capabilities, Distroless images, External Secret Operator (ESO)
+- **Policy Enforcement:** Kyverno, Admission Controller
+- **Encryption:** Asymmetric/Symmetric Encryption, mTLS, AWS KMS/HSM, OpenSSL, Azure KeyVault
+- **Web Security:** OWASP top-10, WAF integration
+- **Supply Chain Security:** SBOM, Cosign image signing, Kyverno signature enforcement
+- **Scanning & SAST:** Snyk, Trivy, GitHub Security, StepCA
+- **Protocols:** SSO, OAuth, Azure App Registration, KeyCloak, Okta
+- **IAM:** AWS IAM, AWS IRSA, Kubernetes RBAC
+- **Compliance:** PCI-DSS, ISO 27001
 
 ---
 
 ### ☁️ Cloud
 
-**Kubernetes:** EKS (multi-cluster, multi-region), AKS (payments platform)
-**Compute:** EC2, Auto Scaling Groups, Lambda
-**Storage:** S3, EBS, EFS, RDS, PostgreSQL
-**Networking:** VPC, Internet Gateway, VPC Endpoints, API Gateway, Transit Gateway, VPC Peering, NACL, Route 53, AWS Load Balancer, CloudFront, WAF, Netbox IP Management
-**Messaging:** SNS, SQS, Kinesis
-**Caching:** ElastiCache
-**Monitoring:** CloudWatch, CloudTrail
-**Secrets & Config:** Secrets Manager, SSM Parameter Store
-**IAM & Security:** AWS IAM, IRSA, SCP, GuardDuty
-**FinOps:** Savings Plans, Reserved Instances, Cost Explorer — ~15% annual cost reduction
-**Azure Identity:** Entra ID (team & access management), App Registrations (SSO)
-**AI/ML:** Bedrock
-**Analytics:** QuickSight
-**Multi-Region:** Automated region deployments via Claude-based agents + Terraform
+- **Kubernetes:** EKS (multi-cluster, multi-region), AKS (payments platform)
+- **Compute:** EC2, Auto Scaling Groups, Lambda
+- **Storage:** S3, EBS, EFS, RDS, PostgreSQL
+- **Networking:** VPC, Internet Gateway, VPC Endpoints, API Gateway, Transit Gateway, VPC Peering, NACL, Route 53, AWS Load Balancer, CloudFront, WAF, Netbox IP Management
+- **Messaging:** SNS, SQS, Kinesis
+- **Caching:** ElastiCache
+- **Monitoring:** CloudWatch, CloudTrail
+- **Secrets & Config:** Secrets Manager, SSM Parameter Store
+- **IAM & Security:** AWS IAM, IRSA, SCP, GuardDuty
+- **FinOps:** Savings Plans, Reserved Instances, Cost Explorer — ~15% annual cost reduction
+- **Azure Identity:** Entra ID (team & access management), App Registrations (SSO)
+- **AI/ML:** Bedrock
+- **Analytics:** QuickSight
+- **Multi-Region:** Automated region deployments via Claude-based agents + Terraform
 
 ---
 
 ### 🤖 Agentic AI & Generative AI
 
-**Claude Automations:** Built plugins, agents, and skills on Claude for DevOps automation
-**Agentic Frameworks:** LangChain, LangGraph, Claude SDK, AutoGen, CrewAI, Agno(PhiData)
-**PII Detection:** Microsoft Presidio
-**ML Frameworks:** Scikit-learn, TensorFlow (Python)
-**Productivity Impact:** ~5–10x productivity improvements in select engineering workflows
+- **Claude Automations:** Built plugins, agents, and skills on Claude for DevOps automation
+- **Agentic Frameworks:** LangChain, LangGraph, Claude SDK, AutoGen, CrewAI, Agno (PhiData)
+- **PII Detection:** Microsoft Presidio
+- **ML Frameworks:** Scikit-learn, TensorFlow (Python)
+- **Productivity Impact:** ~5–10x productivity improvements in select engineering workflows
 
 ---
 
 ### ⚙️ Containers & Kubernetes
 
-**Kubernetes:** Elastic Kubernetes Service (EKS), Azure Kubernetes Service (AKS)
-**Helm:** Helm, Helmfile, Go Templates
-**GitOps:** Argo CD, Argo Workflows
-**Registry:** Harbor, Pulp
-**Service Mesh:** Istio
-**Multi-Cluster:** Multi-region, multi-environment strategy with isolated branch deployments
-**Security:** Pod Security Standards, RBAC, network policies, image scanning
-**Deployments:** Rolling updates, blue/green, canary — Argo Rollouts
-**Auto-scaling:** HPA, VPA, KEDA
+- **Kubernetes:** Elastic Kubernetes Service (EKS), Azure Kubernetes Service (AKS)
+- **Helm:** Helm, Helmfile, Go Templates
+- **GitOps:** Argo CD, Argo Workflows
+- **Registry:** Harbor, Pulp
+- **Service Mesh:** Istio
+- **Multi-Cluster:** Multi-region, multi-environment strategy with isolated branch deployments
+- **Security:** Pod Security Standards, RBAC, network policies, image scanning
+- **Deployments:** Rolling updates, blue/green, canary — Argo Rollouts
+- **Auto-scaling:** HPA, VPA, KEDA
 
 ---
 
 ### 🔭 Observability
 
-**Dashboards & Metrics:** Grafana, Prometheus, Alertmanager, Alloy, Mimir
-**Logs:** Loki, ELK Stack (Elasticsearch, Logstash, Kibana), Fluentd, AWS CloudWatch
-**Traces:** Tempo, Jaeger
-**APM:** Datadog, Dynatrace
-**AI Observability:** Arize Phoenix, LangFuse, LangSmith
-**Container:** Hubble network visibility, Kiyali
+- **Dashboards & Metrics:** Grafana, Prometheus, Alertmanager, Alloy, Mimir
+- **Logs:** Loki, ELK Stack (Elasticsearch, Logstash, Kibana), Fluentd, AWS CloudWatch
+- **Traces:** Tempo, Jaeger
+- **APM:** Datadog, Dynatrace
+- **AI Observability:** Arize Phoenix, LangFuse, LangSmith
+- **Container:** Hubble network visibility, Kiyali
 
 ---
 
 ### 💾 Messaging & Databases
 
-**Messaging:** Kafka, RabbitMQ
-**NoSQL:** Cassandra, MongoDB
-**RDBMS:** PostgreSQL, MySQL, Oracle, PL/SQL
-**Caching:** Redis
-
+- **Messaging:** Kafka, RabbitMQ
+- **NoSQL:** Cassandra, MongoDB
+- **RDBMS:** PostgreSQL, MySQL, Oracle, PL/SQL
+- **Caching:** Redis
 
 ---
 
 ### 🔧 DevSecOps & CI/CD
 
-**CI/CD Platform:** GitHub Actions, Github Actions reusable workflows
-**Code Quality:** SonarQube — static analysis, quality gates in pipelines
-**Artifacts:** Nexus — artifact repository management
-**Container Scanning:** Trivy — image vulnerability scanning in release pipelines
-**Supply Chain:** SBOM generation, Cosign image signing
-**Deployments:** Zero-downtime rolling, blue/green, canary strategies
-**Compliance:** 100% security compliance across all deployment layers
+- **CI/CD Platform:** GitHub Actions, reusable workflows
+- **Code Quality:** SonarQube — static analysis, quality gates in pipelines
+- **Artifacts:** Nexus — artifact repository management
+- **Container Scanning:** Trivy — image vulnerability scanning in release pipelines
+- **Supply Chain:** SBOM generation, Cosign image signing
+- **Deployments:** Zero-downtime rolling, blue/green, canary strategies
+- **Compliance:** 100% security compliance across all deployment layers
 
 ---
 
 ### 🏗️ Infrastructure as Code & Automation
 
-**Terraform:** Multi-cloud declarative provisioning — AWS and Azure
-**Modules:** Reusable Terraform modules for compute, networking, and storage
-**State Management:** S3 + DynamoDB backend with team-safe locking
-**Pipeline Integration:** Terraform + GitHub Actions — fully automated infra provisioning
-**New Regions:** Automated region rollouts via Terraform + Claude-based agents
-**Ansible:** Infrastructure provisioning and configuration management
-**Scripting:** Bash/Shell — cloud automation, Kubernetes scripting, pipeline scripting
-**Python:** ML development, automation scripting
+- **Terraform:** Multi-cloud declarative provisioning — AWS and Azure
+- **Modules:** Reusable Terraform modules for compute, networking, and storage
+- **State Management:** S3 + DynamoDB backend with team-safe locking
+- **Pipeline Integration:** Terraform + GitHub Actions — fully automated infra provisioning
+- **New Regions:** Automated region rollouts via Terraform + Claude-based agents
+- **Ansible:** Infrastructure provisioning and configuration management
+- **Scripting:** Bash/Shell — cloud automation, Kubernetes scripting, pipeline scripting
+- **Python:** ML development, automation scripting
 
 ---
 
 ### ☕ Java & Application Stack
 
-**Core:** Java / J2EE — 20+ years; evolved from EJB/WebLogic to Spring Boot microservices
-**Frameworks:** Spring Boot, Spring Cloud (Eureka, Hystrix, Zuul), Apache Camel
-**APIs:** REST APIs, gRPC, API Gateways — design, implementation, and standardization
-**ORM:** JPA / Hibernate
-**Security:** Cryptography, encryption, key management in enterprise applications
-
-
+- **Core:** Java / J2EE — 20+ years; evolved from EJB/WebLogic to Spring Boot microservices
+- **Frameworks:** Spring Boot, Spring Cloud (Eureka, Hystrix, Zuul), Apache Camel
+- **APIs:** REST APIs, gRPC, API Gateways — design, implementation, and standardization
+- **ORM:** JPA / Hibernate
+- **Security:** Cryptography, encryption, key management in enterprise applications
 
 ---
 
 ### 🔗 Public Profiles
 
-**GitHub:** [github.com/ranajit-jana](https://github.com/ranajit-jana)
-**LinkedIn:** [linkedin.com/in/ranajitjana](https://linkedin.com/in/ranajitjana)
+- **GitHub:** [github.com/ranajit-jana](https://github.com/ranajit-jana)
+- **LinkedIn:** [linkedin.com/in/ranajitjana](https://linkedin.com/in/ranajitjana)
 
 ---
 
