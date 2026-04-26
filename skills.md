@@ -1,6 +1,6 @@
 ## Ranajit Jana — Skills & Core Competencies
 
-[Home](README.md) &nbsp;|&nbsp; [Experience](experience.md) &nbsp;|&nbsp; **Skills** &nbsp;|&nbsp; [Detailed Technologies](technologies.md) &nbsp;|&nbsp; [Education](education.md)
+[Home](README.md) &nbsp;|&nbsp; [Experience](experience.md) &nbsp;|&nbsp; **Skills** &nbsp;|&nbsp; [Detailed Technologies](technologies.md) &nbsp;|&nbsp; [Management](management.md) &nbsp;|&nbsp; [Education](education.md)
 
 ---
 

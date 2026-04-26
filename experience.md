@@ -1,6 +1,6 @@
 ## Ranajit Jana — Professional Experience
 
-[Home](README.md) &nbsp;|&nbsp; **Experience** &nbsp;|&nbsp; [Skills](skills.md) &nbsp;|&nbsp; [Detailed Technologies](technologies.md) &nbsp;|&nbsp; [Education](education.md)
+[Home](README.md) &nbsp;|&nbsp; **Experience** &nbsp;|&nbsp; [Skills](skills.md) &nbsp;|&nbsp; [Detailed Technologies](technologies.md) &nbsp;|&nbsp; [Management](management.md) &nbsp;|&nbsp; [Education](education.md)
 
 ---
 
