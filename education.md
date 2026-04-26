@@ -6,11 +6,21 @@
 
 ### 🎓 MTech in Cybersecurity
 **REVA University, Bangalore**  
-*RACE Program &nbsp;·&nbsp; 2024*
+*RACE Program &nbsp;·&nbsp; 2024 &nbsp;·&nbsp; [race.reva.edu.in](https://race.reva.edu.in/)*
 
-https://race.reva.edu.in/
+360-degree exposure and hands-on training in cybersecurity — combining theoretical depth with practical lab work across the full spectrum of modern security disciplines.
 
-360 degree exposure and hands on training to cybersecurity with subjects covering Understading of threat landscape, Persistent threats, SIEM(QRadar), SOAR, VAPT, Analytics for Security Domain with AI/ML, Data Analytics, Cloud Architecture and Security covering AWS and Azure, Networking and infrastructure security, Secrurity Engineering covering Cryptography and applications in BlockChain, Web Application Security and OWASP, Automation using Cyber threat Intelligence, Cyber Laws, Data Privacy,  OS level Seurity,  Cyber Range with Read and Blue teams
+| Domain | Subjects Covered |
+|---|---|
+| **Threat Intelligence** | Understanding the threat landscape, Persistent threats (APT), Cyber Threat Intelligence automation |
+| **Security Operations** | SIEM (QRadar), SOAR — detection, correlation, and automated incident response |
+| **Offensive & Defensive Security** | VAPT (Vulnerability Assessment & Penetration Testing), Cyber Range with Red and Blue teams |
+| **AI/ML for Security** | Analytics for Security Domain using AI/ML, Data Analytics for threat detection |
+| **Cloud Security** | Cloud Architecture and Security covering AWS and Azure — IAM, network security, compliance posture |
+| **Network & Infrastructure Security** | Networking and infrastructure security — firewalls, IDS/IPS, segmentation, secure design |
+| **Security Engineering** | Cryptography and its applications, Blockchain security fundamentals |
+| **Application Security** | Web Application Security, OWASP Top 10 — secure SDLC, code review, testing |
+| **Governance & Compliance** | Cyber Laws, Data Privacy regulations (GDPR, IT Act), OS-level security hardening |
 
 ---
 
@@ -36,4 +46,4 @@ Foundation degree in Electronics & Communication Engineering with understanding 
 | **Sun Certified Java Programmer (SCJP)** | 2000 |
 
 
-*[← Skills](skills.md) &nbsp;·&nbsp; [Home →](README.md)*
+*[← Technology Skills](technology-skills.md) &nbsp;·&nbsp; [Home →](README.md)*
