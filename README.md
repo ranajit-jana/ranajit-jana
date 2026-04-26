@@ -1,4 +1,4 @@
-<table><tr>
+<table width="100%"><tr>
 <td>
 
 ## Ranajit Jana — Senior Technology Leader
@@ -6,7 +6,7 @@
 **Home** &nbsp;|&nbsp; [Experience](experience.md) &nbsp;|&nbsp; [Skills](skills.md) &nbsp;|&nbsp; [Detailed Technologies](technologies.md) &nbsp;|&nbsp; [Education](education.md)
 
 </td>
-<td width="90" align="right"><img src="RanajitJana.jpg" alt="Ranajit Jana" width="80" /></td>
+<td align="right" valign="top" width="85"><img src="RanajitJana.jpg" alt="Ranajit Jana" width="75" /></td>
 </tr></table>
 
 ---
