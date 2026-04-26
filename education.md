@@ -20,7 +20,7 @@
 | **Network & Infrastructure Security** | Networking and infrastructure security — firewalls, IDS/IPS, segmentation, secure design |
 | **Security Engineering** | Cryptography and its applications, Blockchain security fundamentals |
 | **Application Security** | Web Application Security, OWASP Top 10 — secure SDLC, code review, testing |
-| **Governance & Compliance** | Cyber Laws, Data Privacy regulations (GDPR, IT Act), OS-level security hardening |
+| **GRC** | Cyber Laws, Data Privacy regulations (GDPR, IT Act), OS-level security hardening |
 
 ---
 
