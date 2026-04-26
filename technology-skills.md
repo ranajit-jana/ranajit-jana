@@ -66,8 +66,8 @@
 - **Caching:** ElastiCache
 - **Monitoring:** CloudWatch, CloudTrail
 - **Secrets & Config:** Secrets Manager, SSM Parameter Store
-- **IAM & Security:** AWS IAM, IRSA, SCP, GuardDuty, Azure Entra, Azure App Registrations, WAF
-- **FinOps:** Savings Plans, Reserved Instances, Cost Explorer, QuickSight
+- **IAM & Security:** Security Group, AWS IAM, IRSA, SCP, GuardDuty, Azure Entra, Azure App Registrations, WAF
+- **FinOps:** Retention, Savings Plans, Reserved Instances, Cost Explorer, QuickSight
 - **AI/ML:** Bedrock
 
 ---
@@ -110,6 +110,7 @@
 
 - **Messaging:** Kafka, RabbitMQ
 - **NoSQL:** Cassandra, MongoDB
+- **GraphDB:** Neo4j
 - **RDBMS:** PostgreSQL, MySQL, Oracle, PL/SQL
 - **Caching:** Redis
 
