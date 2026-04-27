@@ -4,7 +4,7 @@
 
 ---
 
-### 🧭 Management Style & Leadership Principles
+### ⚖️ Management Style & Leadership Principles
 
 - **Engineering Delivery Excellence**  
   Deliver reliably and on time through disciplined critical path management, proactive risk identification, and strong sprint hygiene. Adopt modern technologies early to reduce technical debt and keep the platform competitive. Automate deployments, testing, and quality feedback loops so teams focus on high-value work rather than repetitive tasks. Embed security across the SDLC and treat security posture — vulnerability scans, dependency checks, and compliance status — as a standard release artifact alongside code and tests.
