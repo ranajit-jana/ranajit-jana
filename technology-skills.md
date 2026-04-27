@@ -146,8 +146,8 @@
 - **Core:** Java, J2EE, EJB, Servlets. JSP, MVC
 - **Servers:** WebLogic, Websphere, Tomcat, Dreamweaver
 - **Deployments:** ANT, Struts, Tomcat, Maven
-- **Frameworks:** Spring Boot, Spring Cloud (Eureka, Hystrix, Zuul), Apache Camel, Quartz, Velocity, Rhino, slf4j, Karaf, CXF /JAX-RS/JAX-WS, OSGi, Tika, Exiftool, Atomikos, Gemfire, Mashery
-- **APIs:** REST APIs, gRPC, EH Cache
+- **Frameworks:** Spring Boot, Spring Cloud (Eureka, Hystrix, Zuul), Apache Camel, Quartz, Velocity, Rhino, slf4j, Karaf, CXF /JAX-RS/JAX-WS, OSGi, Tika, Exiftool, Atomikos, Gemfire, Mashery,  EH Cache
+- **APIs:** REST APIs, gRPC
 - **Messaging:** IBM MQ, MDB, JMS, Rabbit MQ
 - **DB-ORM:** PL/SQL, Oracle, JPA, Hibernate, ERWIN
 - **Security:** Cryptography, encryption
