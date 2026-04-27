@@ -88,10 +88,10 @@
 - **Kubernetes:** Elastic Kubernetes Service (EKS), Azure Kubernetes Service (AKS)
 - **Helm:** Helm, Helmfile, Go Templates
 - **GitOps:** Argo CD, Argo Workflows
-- **Registry:** Harbor, Pulp
+- **Registry:** Harbor, Pulp, Certificate Manager
 - **Service Mesh:** Istio
 - **Multi-Cluster:** Multi-region, multi-environment strategy with isolated branch deployments
-- **Security:** Pod Security Standards, RBAC, network policies, image scanning
+- **Security:** Admissions Controller, Pod Security Standards, RBAC, network policies with Cilium, image scanning
 - **Deployments:** Rolling updates, blue/green, canary — Argo Rollouts
 - **Auto-scaling:** HPA, VPA, KEDA
 
