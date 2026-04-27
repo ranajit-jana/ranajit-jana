@@ -143,12 +143,12 @@
 
 ### ☕ Java & Application Stack
 
-- **Core:** Java / J2EE — 20+ years; evolved from EJB/WebLogic to Spring Boot microservices
+- **Core:** Java / J2EE /EJB/WebLogic
+- **Servers:** WebLogic, Websphere, Tomcat
 - **Frameworks:** Spring Boot, Spring Cloud (Eureka, Hystrix, Zuul), Apache Camel
-- **APIs:** REST APIs, gRPC, API Gateways — design, implementation, and standardization
+- **APIs:** REST APIs, gRPC
 - **ORM:** JPA / Hibernate
-- **Security:** Cryptography, encryption, key management in enterprise applications
-
+- **Security:** Cryptography, encryption
 ---
 
 ### 🔗 Public Profiles
