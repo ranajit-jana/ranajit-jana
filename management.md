@@ -31,6 +31,18 @@
 
 ### 📊 Execution Impact & Leadership Metrics
 
+- **Delivery Excellence**  
+  Maintained **<15% schedule variance** with **biweekly release cadence**, improving delivery velocity by **~20%** through structured execution and critical path optimization.
+
+- **Quality & Stability**  
+  Achieved **75%+ automated test coverage**, **near-zero critical production defects**, and **~60% reduction in vulnerabilities**.
+
+- **DevOps & CI/CD Efficiency**  
+  Reduced CI/CD workflow execution time by **~60%** by migrating from Jenkins to GitHub Actions and standardizing pipelines.
+
+- **Rework & Predictability**  
+  Reduced rework by **~50%** through upfront architecture alignment and stakeholder-driven roadmap execution.
+
 - **Availability & Reliability**  
   Achieved **~99% component availability / ~90% system availability**, reducing MTTR by **~60–70%** through resilient architecture, observability, and alerting systems.
 
@@ -43,18 +55,6 @@
 - **Engineering Productivity (AI + Automation)**  
   Achieved **~5–10x productivity gains** in targeted workflows using Generative AI / Agentic AI for code generation, debugging, and tech stack upgrades.  
   Reduced development cycles from **days to hours** via AI-driven automation for deployments, migrations, and templated code generation.
-
-- **Delivery Excellence**  
-  Maintained **<15% schedule variance** with **biweekly release cadence**, improving delivery velocity by **~20%** through structured execution and critical path optimization.
-
-- **Quality & Stability**  
-  Achieved **75%+ automated test coverage**, **near-zero critical production defects**, and **~60% reduction in vulnerabilities**.
-
-- **DevOps & CI/CD Efficiency**  
-  Reduced CI/CD workflow execution time by **~60%** by migrating from Jenkins to GitHub Actions and standardizing pipelines.
-
-- **Rework & Predictability**  
-  Reduced rework by **~50%** through upfront architecture alignment and stakeholder-driven roadmap execution.
 
 - **Cloud & Platform Engineering**  
   Built cloud-agnostic Kubernetes platform enabling **multi-cloud portability**, zero vendor lock-in, and isolated branch-based deployments for improved testability.
