@@ -143,11 +143,13 @@
 
 ### ☕ Java & Application Stack
 
-- **Core:** Java / J2EE /EJB/WebLogic
-- **Servers:** WebLogic, Websphere, Tomcat
-- **Frameworks:** Spring Boot, Spring Cloud (Eureka, Hystrix, Zuul), Apache Camel
-- **APIs:** REST APIs, gRPC
-- **ORM:** JPA / Hibernate
+- **Core:** Java, J2EE, EJB, Servlets. JSP, MVC
+- **Servers:** WebLogic, Websphere, Tomcat, Dreamweaver
+- **Deployments:** ANT, Struts, Tomcat, Maven
+- **Frameworks:** Spring Boot, Spring Cloud (Eureka, Hystrix, Zuul), Apache Camel, Quartz, Velocity, Rhino, slf4j, Karaf, CXF /JAX-RS/JAX-WS, OSGi, Tika, Exiftool, Atomikos, Gemfire, Mashery
+- **APIs:** REST APIs, gRPC, EH Cache
+- **Messaging:** IBM MQ, MDB, JMS, Rabbit MQ
+- **DB-ORM:** PL/SQL, Oracle, JPA, Hibernate, ERWIN
 - **Security:** Cryptography, encryption
 ---
 
