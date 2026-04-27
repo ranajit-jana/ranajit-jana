@@ -7,7 +7,7 @@
 ### 🧭 Management Style & Leadership Principles
 
 - **Engineering Delivery Excellence**  
-  Deliver reliably and on time through disciplined critical path management, proactive risk identification, and strong sprint hygiene. Adopt modern technologies early to reduce technical debt and keep the platform competitive. Automate deployments, testing, and quality feedback loops so teams focus on high-value work rather than repetitive tasks. Embed security across the full SDLC — from design reviews and secure coding to pipeline checks and production controls — so it never becomes a last-minute blocker to delivery.
+  Deliver reliably and on time through disciplined critical path management, proactive risk identification, and strong sprint hygiene. Adopt modern technologies early to reduce technical debt and keep the platform competitive. Automate deployments, testing, and quality feedback loops so teams focus on high-value work rather than repetitive tasks. Embed security across the SDLC and treat security posture — vulnerability scans, dependency checks, and compliance status — as a standard release artifact alongside code and tests.
 
 - **Engineering Quality Management**  
   Treat quality as a measurable, ongoing discipline. Track defect rates, change requests, and escaped bugs over time to identify trends and drive targeted improvement. Enforce quality gates at every stage of the SDLC through automated testing, code reviews, and pre-release validation. Improve maintainability through consistent coding standards, test coverage targets, and technical debt reduction. Use techniques like shift-left testing, root cause analysis on repeat defects, and release retrospectives to continuously raise the quality bar across teams and deliverables.
