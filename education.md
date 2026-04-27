@@ -35,8 +35,8 @@ Bachelors degree in Electronics & Communication Engineering with understanding o
 
 | Certification | Year |
 |---|---|
-| **Agentic AI Certification Training Course (edureka)** — Agentic AI Essentials, Architectures & Design Patterns, LangChain & LCEL, LangGraph, Agentic RAG, Phidata, Multi-Agent Systems (LangGraph & CrewAI), Autogen, Agent Observability & AgentOps, No/Low-Code Agents (N8N, MCP), Generative & Agentic AI on Cloud,Gradio,Streamlit  Capstone Project | March-April 2026 |
-| **Hands-on ML and Generative AI (Dhee Coding Labs)** — Python Basics & Advanced, Machine Learning, Mathematics behind ML, Loss Functions, AI Algorithms, Deep Learning (ANN, CNN, RNN), Generative AI(Transformers, LSTM) LangChain, LangGraph, MCP, RAG, Vector DBs, Capstone Project · Libraries: Pandas, NumPy, Scikit-learn, Groq, Ollama,, TensorFlow, Matplotlib, Seaborn, Hugging Face Transformers, OpenCV, Streamlit | May 2025-April 2026 |
+| **Agentic AI Certification Training Course (edureka)** — Agentic AI Essentials, Architectures & Design Patterns, LangChain & LCEL, LangGraph, Agentic RAG, Phidata, Multi-Agent Systems (LangGraph & CrewAI), Autogen, Agent Observability & AgentOps, No/Low-Code Agents (N8N, MCP), Generative & Agentic AI on Cloud,Gradio,Streamlit, Capstone Project | March-April 2026 |
+| **Hands-on ML and Generative AI (Dhee Coding Labs)** — Python Basics & Advanced, Machine Learning, Mathematics behind ML, Loss Functions, AI Algorithms, Deep Learning (ANN, CNN, RNN), Generative AI(Transformers, LSTM) LangChain, LangGraph, MCP, RAG, Vector DBs Libraries: Pandas, NumPy, Scikit-learn, Groq, Ollama, TensorFlow, Matplotlib, Seaborn, Hugging Face Transformers, OpenCV, Streamlit, Capstone Project | May 2025-April 2026 |
 | **CNCF Certified Kubernetes Administrator (CKA)** | 2020 |
 | **Sun Certified Web Component Developer (SCWCD)** | 2005 |
 | **Sun Certified Java Programmer (SCJP)** | 2000 |
