@@ -91,7 +91,7 @@
 - **Registry:** Harbor, Pulp, Certificate Manager
 - **Service Mesh:** Istio
 - **Multi-Cluster:** Multi-region, multi-environment strategy with isolated branch deployments
-- **Security:** Admissions Controller, Pod Security Standards, RBAC, network policies with Cilium, image scanning
+- **Security:** Admissions Controller, Pod Security Standards, RBAC, network policies with Cilium/Hubble, image scanning
 - **Deployments:** Rolling updates, blue/green, canary — Argo Rollouts
 - **Auto-scaling:** HPA, VPA, KEDA
 
