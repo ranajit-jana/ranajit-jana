@@ -62,7 +62,7 @@
 - **Kubernetes:** EKS , AKS
 - **Compute:** EC2, Auto Scaling Groups, Lambda
 - **Storage:** S3, EBS, EFS, RDS, PostgreSQL
-- **Networking:** VPC, Subnets, Internet Gateway, VPC Endpoints, API Gateway, Transit Gateway, VPC Peering, NACL, Route 53, AWS Load Balancer, CloudFront, Netbox IP Management
+- **Networking:** VPC, Subnets, Internet Gateway, VPC Endpoints, API Gateway, Transit Gateway, VPC Peering, NACL, Route 53, AWS Load Balancer, CloudFront, Reachablity Analyser
 - **Messaging:** SNS, SQS, Kinesis
 - **Caching:** ElastiCache
 - **Monitoring:** CloudWatch, CloudTrail
@@ -70,6 +70,7 @@
 - **IAM & Security:** Security Group, AWS IAM, IRSA, SCP, GuardDuty, Azure Entra, Azure App Registrations, WAF
 - **FinOps:** Retention, Savings Plans, Reserved Instances, Cost Explorer, QuickSight
 - **AI/ML:** Bedrock
+
 
 ---
 

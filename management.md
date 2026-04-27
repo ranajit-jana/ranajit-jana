@@ -6,40 +6,26 @@
 
 ### 🧭 Management Style & Leadership Principles
 
-- **Predictable Delivery First**  
-  Drive reliable, on-time delivery through disciplined execution — critical path ownership, proactive risk management, and strong sprint hygiene.
+- **Engineering Delivery Excellence**  
+  Deliver reliably and on time through disciplined critical path management, proactive risk identification, and strong sprint hygiene. Adopt modern technologies early to reduce technical debt and keep the platform competitive. Automate deployments, testing, and quality feedback loops so teams focus on high-value work rather than repetitive tasks. Embed security across the full SDLC — from design reviews and secure coding to pipeline checks and production controls — so it never becomes a last-minute blocker to delivery.
 
-- **Faster Technology Adoption**  
-  Proactively evaluate and adopt emerging, scalable technologies to stay ahead of technical debt and keep the platform modern and competitive.
+- **Engineering Quality Management**  
+  Treat quality as a measurable, ongoing discipline. Track defect rates, change requests, and escaped bugs over time to identify trends and drive targeted improvement. Enforce quality gates at every stage of the SDLC through automated testing, code reviews, and pre-release validation. Improve maintainability through consistent coding standards, test coverage targets, and technical debt reduction. Use techniques like shift-left testing, root cause analysis on repeat defects, and release retrospectives to continuously raise the quality bar across teams and deliverables.
 
-- **Automation-First Engineering**  
-  Drive automation across deployments, quality feedback loops, testing, and platform upgrades — enabling teams to focus on high-value engineering work instead of repetitive tasks.
+- **Strategy Cascade & Aligned Execution**  
+  Translate business and technology strategy into engineering execution by cascading goals from CTO and VP Technology down through team-level OKRs and KPIs — ensuring every squad understands not just what to build, but why it matters. Maximize coordination across Dev, QA, and DevOps so that strategic intent flows without friction into sprint priorities, delivery milestones, and measurable customer and business outcomes. Anchor execution on adoption, experience, and value delivered — not just feature completion.
 
-- **Security by Design (Not Afterthought)**  
-  Embed security practices across the SDLC — design reviews, secure coding, pipeline checks, and production controls.
+- **Lean & Fungible Engineering Teams**  
+  Keep teams small and adaptable by hiring engineers who can work across different technologies and domains — not narrow specialists. Use AI tools to close skill gaps quickly, reduce ramp-up time, and maintain high output without growing headcount. The result is a lean team that stays flexible as priorities shift, scales through AI rather than hiring, and avoids the overhead of over-specialization.
 
-- **Outcome-Driven Execution**  
-  Partner closely with VP Technology and CTO to align on expectations and define measurable outcomes. Drive teams to deliver KPI-driven, measurable **customer and business outcomes**, not just feature completion.  
-  Anchor execution on customer impact — adoption, experience, and value delivered.
+- **Engineering Transformation Mindset**  
+  Drive continuous engineering transformation across technology, culture, and delivery — upgrading tech stacks to eliminate legacy debt and unlock modern capabilities, embedding a DevOps culture that breaks down silos between development, QA, and operations, and modernizing release management to shift from infrequent, high-risk deployments to fast, automated, and reliable release cadences. Accelerate this transformation through targeted automation — CI/CD pipelines, infrastructure-as-code, automated testing, and deployment tooling — so teams spend less time on toil and more on high-value engineering. Treat each transformation initiative as a measurable program with clear milestones, team enablement, and adoption metrics.
 
-- **Talent Density Over Team Size**  
-  Prioritize building high-quality, high-accountability teams over scaling headcount — continuously raising the bar in hiring, mentoring, and performance.  
-  Amplify team productivity through AI-assisted development, automation, and strong engineering tooling.  
-  Leverage deep observability and maintainability practices to enable smaller, focused teams to operate with speed, ownership, and confidence.
+- **Measurable Feedback & Accountability**  
+  Maintain structured, quantified feedback loops across all dimensions — capturing reportee sentiment through pulse surveys and 1:1s, tracking Employee Net Promoter Score (eNPS) as a leading indicator of team health and engagement, monitoring customer Net Promoter Score (NPS) to anchor engineering outcomes to user experience, and holding vendors accountable through scorecards tied to SLA performance and delivery quality. Feedback is treated as a measurable signal — reviewed consistently and used to drive improvement across people, product, and partnerships.
 
-- **High-Alignment, Low-Friction Teams**  
-  Maximize coordination across Dev, QA, DevOps — ensuring clarity, reducing friction, and enabling true collective ownership.
-
-- **Fail Fast, Learn Faster**  
-  Encourage controlled experimentation with rapid feedback loops.  
-  Treat failures as learning opportunities to continuously improve systems and execution.
-
-- **Continuous Feedback & Transparency**  
-  Maintain strong feedback loops with stakeholders and teams.  
-  Surface progress, risks, and trade-offs early to avoid surprises.
-
-- **Cost-Conscious Engineering**  
-  Treat cost as a first-class engineering metric alongside performance and reliability.
+- **Engineering Cost Management**  
+  Manage engineering spend by tracking project budget burn against delivery milestones, evaluating vendor contracts against actual usage, auditing software license cost, and right-sizing infrastructure through autoscaling, reserved capacity, and architecture optimization. Cost is surfaced as a first-class metric in planning and retrospectives, alongside performance and reliability.
 
 ---
 
@@ -87,7 +73,5 @@
   Built and led **25+ member cross-functional teams**, improving engineering efficiency by **~20%** while maintaining high delivery standards.
 
 ---
-
-
 
 *[← Experience](experience.md) &nbsp;·&nbsp; [Technology Skills →](technology-skills.md)*
