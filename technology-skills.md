@@ -83,6 +83,15 @@
 
 ---
 
+### 🧠 Machine Learning & Deep Learning
+
+- **Frameworks:** Scikit-learn, TensorFlow, Keras
+- **Data Processing:** Pandas, NumPy, Matplotlib
+- **ML:** Supervised & Unsupervised Learning, Classification, Regression, Clustering
+- **Deep Learning:** Neural Networks, CNNs, RNNs
+
+---
+
 ### ⚙️ Containers & Kubernetes
 
 - **Kubernetes:** Elastic Kubernetes Service (EKS), Azure Kubernetes Service (AKS)
