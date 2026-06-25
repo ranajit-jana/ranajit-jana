@@ -13,7 +13,7 @@ Recognized for delivering high-impact, customer-centric architectures across per
 ### Key Leadership Impact
 
 **🏗️ Technology Architecture, Delivery & Quality**  
-Designs cloud-native, cloud-agnostic platforms spanning Cloud, DevSecOps, Containers, Observability, and CI/CD — achieving **~99% component availability**, **~90% system availability**, and **~60–70% MTTR reduction**. Defines and executes technology roadmaps tied to business objectives — reducing rework by **~50%** and maintaining delivery variance below **~15%**. Drives DevOps transformation and CI/CD modernization, cutting pipeline execution time by **~60%**. Enforces quality gates across the SDLC — achieving **75%+ automated test coverage**, near-zero critical production defects, and security posture as a verified release artifact.
+Designs cloud-native, cloud-agnostic platforms spanning Cloud, DevSecOps, Containers, Observability, and CI/CD — achieving **~99.9% component availability**, **~99% system availability**, and **~60–70% MTTR reduction**. Defines and executes technology roadmaps tied to business objectives — reducing rework by **~50%** and maintaining delivery variance below **~15%**. Drives DevOps transformation and CI/CD modernization, cutting pipeline execution time by **~60%**. Enforces quality gates across the SDLC — achieving **75%+ automated test coverage**, near-zero critical production defects, and security posture as a verified release artifact.
 
 **🤖 Agentic AI & Engineering Productivity**  
 Builds agentic AI frameworks for code generation, tech stack upgrades, and operations automation — enabling intelligent cross-system log/event analysis and driving **~5–10x productivity gains** in targeted workflows.
