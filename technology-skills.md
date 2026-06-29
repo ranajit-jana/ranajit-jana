@@ -160,6 +160,7 @@
 - **Messaging:** IBM MQ, MDB, JMS, Rabbit MQ
 - **DB-ORM:** PL/SQL, Oracle, JPA, Hibernate, ERWIN
 - **Security:** Cryptography, encryption
+- **Perfomance Engineering:** JMeter, APM , Dynatrace
 ---
 
 ### 🔗 Public Profiles
