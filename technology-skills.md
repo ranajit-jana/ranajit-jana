@@ -59,6 +59,7 @@
 
 ### ☁️ Cloud
 
+- **CSPM:** GuardDuty, AWS Config
 - **Kubernetes:** EKS , AKS
 - **Compute:** EC2, Auto Scaling Groups, Lambda
 - **Storage:** S3, EBS, EFS, RDS, PostgreSQL
