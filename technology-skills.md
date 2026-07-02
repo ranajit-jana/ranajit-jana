@@ -50,7 +50,7 @@
 - **Encryption:** Asymmetric/Symmetric Encryption, mTLS, AWS KMS/HSM, OpenSSL, Azure KeyVault
 - **Web Security:** OWASP top-10, WAF integration
 - **Supply Chain Security:** SBOM, Cosign image signing, Kyverno signature enforcement
-- **Scanning & SAST:** Snyk, Trivy,TruffleHog, GitHub Security, StepCA
+- **Scanning & SAST:** Snyk, Trivy, TruffleHog, GitHub Security, StepCA
 - **Protocols:** SSO, OAuth, Azure App Registration, KeyCloak, Okta
 - **IAM:** AWS IAM, AWS IRSA, Kubernetes RBAC
 - **Compliance:** PCI-DSS, ISO 27001
@@ -67,7 +67,7 @@
 - **Messaging:** SNS, SQS, Kinesis
 - **Caching:** ElastiCache
 - **Monitoring:** CloudWatch, CloudTrail
-- **Secrets & Config:** Secrets Manager, SSM Parameter Store
+- **Secrets & Config:** Secrets Manager, SSM Parameter Store, AppConfig
 - **IAM & Security:** Security Group, AWS IAM, IRSA, SCP, GuardDuty, Azure Entra, Azure App Registrations, WAF
 - **FinOps:** Retention, Savings Plans, Reserved Instances, Cost Explorer, CUR, QuickSight
 - **AI/ML:** Bedrock
