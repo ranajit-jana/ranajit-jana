@@ -99,7 +99,7 @@
 - **Helm:** Helm, Helmfile, Go Templates
 - **GitOps:** Argo CD, Argo Workflows
 - **Registry:** Harbor, Pulp, Certificate Manager
-- **Service Mesh:** Istio
+- **Service Mesh:** Cilium, Istio
 - **Multi-Cluster:** Multi-region, multi-environment strategy with isolated branch deployments
 - **Security:** Admissions Controller, Pod Security Standards, RBAC, network policies with Cilium/Hubble, image scanning
 - **Deployments:** Rolling updates, blue/green, canary — Argo Rollouts
@@ -114,7 +114,7 @@
 - **Traces:** Tempo, Jaeger
 - **APM:** Datadog, Dynatrace, Pyroscope
 - **AI Observability:** Arize Phoenix, LangFuse, LangSmith
-- **Container:** Hubble network visibility, Kiyali
+- **Container:** Cilium Hubble, Kiyali
 
 ---
 
