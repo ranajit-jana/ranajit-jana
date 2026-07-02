@@ -113,7 +113,7 @@
 ### 🔭 Observability
 
 - **Dashboards & Metrics:** Grafana, Prometheus, Alertmanager, Alloy, Mimir
-- **Logs:** Loki, ELK Stack (Elasticsearch, Logstash, Kibana), Fluentd, AWS CloudWatch
+- **Logs:** Loki, promtail, ELK Stack (Elasticsearch, Logstash, Kibana), Fluentd, AWS CloudWatch
 - **Traces:** Tempo, Jaeger
 - **APM:** Datadog, Dynatrace, Pyroscope
 - **AI Observability:** Arize Phoenix, LangFuse, LangSmith
