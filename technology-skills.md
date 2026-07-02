@@ -42,7 +42,7 @@
 ---
 
 ### 🔒 Security
-
+- **Container Networking:** Cilium, Falco
 - **Container Network Security:** Cilium Network Policies
 - **Container Security:** Pod Security Admission, Service Accounts, Linux Capabilities, Distroless images
 - **Secrets Management:** External Secret Operator (ESO)
@@ -50,7 +50,7 @@
 - **Encryption:** Asymmetric/Symmetric Encryption, mTLS, AWS KMS/HSM, OpenSSL, Azure KeyVault
 - **Web Security:** OWASP top-10, WAF integration
 - **Supply Chain Security:** SBOM, Cosign image signing, Kyverno signature enforcement
-- **Scanning & SAST:** Snyk, Trivy, GitHub Security, StepCA
+- **Scanning & SAST:** Snyk, Trivy,TruffleHog, GitHub Security, StepCA
 - **Protocols:** SSO, OAuth, Azure App Registration, KeyCloak, Okta
 - **IAM:** AWS IAM, AWS IRSA, Kubernetes RBAC
 - **Compliance:** PCI-DSS, ISO 27001
@@ -68,7 +68,7 @@
 - **Monitoring:** CloudWatch, CloudTrail
 - **Secrets & Config:** Secrets Manager, SSM Parameter Store
 - **IAM & Security:** Security Group, AWS IAM, IRSA, SCP, GuardDuty, Azure Entra, Azure App Registrations, WAF
-- **FinOps:** Retention, Savings Plans, Reserved Instances, Cost Explorer, QuickSight
+- **FinOps:** Retention, Savings Plans, Reserved Instances, Cost Explorer, CUR, QuickSight
 - **AI/ML:** Bedrock
 
 
@@ -111,7 +111,7 @@
 - **Dashboards & Metrics:** Grafana, Prometheus, Alertmanager, Alloy, Mimir
 - **Logs:** Loki, ELK Stack (Elasticsearch, Logstash, Kibana), Fluentd, AWS CloudWatch
 - **Traces:** Tempo, Jaeger
-- **APM:** Datadog, Dynatrace
+- **APM:** Datadog, Dynatrace, Pyroscope
 - **AI Observability:** Arize Phoenix, LangFuse, LangSmith
 - **Container:** Hubble network visibility, Kiyali
 
