@@ -69,7 +69,7 @@
 - **Monitoring:** CloudWatch, CloudTrail
 - **Secrets & Config:** Secrets Manager, SSM Parameter Store, AppConfig
 - **IAM & Security:** Security Group, AWS IAM, IRSA, SCP, GuardDuty, Azure Entra, Azure App Registrations, WAF
-- **FinOps:** Retention, Savings Plans, Reserved Instances, Cost Explorer, CUR, QuickSight
+- **FinOps:** Resource Tagging, Retention policies, Savings Plans, Reserved Instances, Cost Explorer, CUR, QuickSight
 - **AI/ML:** Bedrock
 
 
