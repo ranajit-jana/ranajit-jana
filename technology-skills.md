@@ -61,10 +61,11 @@
 
 - **CSPM:** GuardDuty, AWS Config
 - **Kubernetes:** EKS , AKS
-- **Compute:** EC2, Auto Scaling Groups, Lambda
-- **Storage:** S3, EBS, EFS, RDS, PostgreSQL
-- **Networking:** VPC, Subnets, Internet Gateway, VPC Endpoints, API Gateway, Transit Gateway, VPC Peering, NACL, Route 53, AWS Load Balancer, CloudFront, Reachablity Analyser
-- **Messaging:** SNS, SQS, Kinesis
+- **Compute:** EC2, Auto Scaling Groups, Lambda, AMI, UserData, SSM
+- **Storage:** S3, EBS, EFS
+- **Database:**  RDS, PostgreSQL, Serverless
+- **Networking:** VPC, Subnets, Internet Gateway, Private Link, API Gateway, Transit Gateway, VPC Peering, NACL, Route 53, AWS Load Balancer, CloudFront, Reachablity Analyser
+- **Messaging:** SNS, SQS, Kinesis, Firehose
 - **Caching:** ElastiCache
 - **Monitoring:** CloudWatch, CloudTrail
 - **Secrets & Config:** Secrets Manager, SSM Parameter Store, AppConfig
@@ -103,7 +104,7 @@
 - **NodeOS:** BottleRocket
 - **Dev workflow:** multi-environment strategy with isolated branch deployments
 - **Security:** Admissions Controller, Pod Security Standards, RBAC, network policies with Cilium/Hubble, image scanning
-- **Deployments:** Rolling updates, blue/green, canary — Argo Rollouts
+- **Deployments:** Rolling updates, blue/green, canary - Argo Rollouts
 - **Auto-scaling:** HPA, VPA, KEDA
 - **Replication:** skopeo
 
@@ -136,16 +137,16 @@
 - **Code Quality:** SonarQube, Synk
 - **Artifacts:** Nexus, Artifactory
 - **Container Scanning:** Trivy
-- **Deployments:** Argo CD
+- **Deployments:** Argo CD, Terraform
 
 ---
 
 ### 🏗️ Infrastructure as Code & Automation
 
-- **Terraform:** Multi-cloud declarative provisioning — AWS and Azure
+- **Terraform:** Multi-cloud declarative provisioning - AWS and Azure
 - **Modules:** Reusable Terraform modules for compute, networking, and storage
 - **State Management:** S3 + DynamoDB backend with team-safe locking
-- **Pipeline Integration:** Terraform + GitHub Actions — fully automated infra provisioning
+- **Pipeline Integration:** Terraform + GitHub Actions - fully automated infra provisioning
 - **New Regions:** Automated region rollouts via Terraform + Claude-based agents
 - **Ansible:** Infrastructure provisioning and configuration management
 - **Scripting:** Bash/Shell, cloud automation, Kubernetes scripting, pipeline scripting
