@@ -104,6 +104,7 @@
 - **Security:** Admissions Controller, Pod Security Standards, RBAC, network policies with Cilium/Hubble, image scanning
 - **Deployments:** Rolling updates, blue/green, canary — Argo Rollouts
 - **Auto-scaling:** HPA, VPA, KEDA
+- **Replication:** skopeo
 
 ---
 
