@@ -12,7 +12,7 @@ Recognized for delivering high-impact, customer-centric architectures across per
 
 ### 📊 Skill Matrix
 
-<table border="1" cellpadding="6" cellspacing="0">
+<table border="3" cellpadding="6" cellspacing="0">
 <tr><td rowspan="11" valign="middle" align="center" bgcolor="#c2d6d6"><b>Management / Project Delivery and Support</b></td>
 <td rowspan="3" valign="middle" align="center" bgcolor="#deeaea"><b>Team Management</b></td><td bgcolor="#f7fafa">Hiring</td><td bgcolor="#f7fafa">████████████ Expert</td></tr>
 <tr><td bgcolor="#f8fafa">Mentor</td><td bgcolor="#f8fafa">████████████ Expert</td></tr>
