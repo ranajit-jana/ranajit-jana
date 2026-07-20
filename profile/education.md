@@ -1,4 +1,4 @@
-🏠 [Home](README.md) &nbsp;|&nbsp; 💼 [Experience](experience.md) &nbsp;|&nbsp; 👥 [Management Skills](management.md) &nbsp;|&nbsp; 🛠️ [Technology Skills](technology-skills.md) &nbsp;|&nbsp; 🎓 **Education**
+🏠 [Home](../README.md) &nbsp;|&nbsp; 💼 [Experience](experience.md) &nbsp;|&nbsp; 👥 [Management Skills](management.md) &nbsp;|&nbsp; 🛠️ [Technology Skills](technology-skills.md) &nbsp;|&nbsp; 🎓 **Education**
 
 ---
 
@@ -42,4 +42,4 @@ Bachelors degree in Electronics & Communication Engineering with understanding o
 | **Sun Certified Java Programmer (SCJP)** | 2000 |
 
 
-*[← Technology Skills](technology-skills.md) &nbsp;·&nbsp; [Home →](README.md)*
+*[← Technology Skills](technology-skills.md) &nbsp;·&nbsp; [Home →](../README.md)*

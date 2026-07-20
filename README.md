@@ -1,7 +1,7 @@
-🏠 **Home** &nbsp;|&nbsp; 💼 [Experience](experience.md) &nbsp;|&nbsp; 👥 [Management Skills](management.md) &nbsp;|&nbsp; 🛠️ [Technology Skills](technology-skills.md) &nbsp;|&nbsp; 🎓 [Education](education.md)
+🏠 **Home** &nbsp;|&nbsp; 💼 [Experience](profile/experience.md) &nbsp;|&nbsp; 👥 [Management Skills](profile/management.md) &nbsp;|&nbsp; 🛠️ [Technology Skills](profile/technology-skills.md) &nbsp;|&nbsp; 🎓 [Education](profile/education.md)
 
 ### Ranajit Jana
-<a href="https://www.linkedin.com/in/ranajitjana/"><img src="linkedin.png" alt="LinkedIn" width="16" style="vertical-align:middle;" /></a> LinkedIn : [in/ranajitjana](https://linkedin.com/in/ranajitjana)  |  📧 Email : ranajitjana@gmail.com  | 📍 Location : [Bangalore, India](https://maps.app.goo.gl/RsX67o8oCsbXemDr6)
+<a href="https://www.linkedin.com/in/ranajitjana/"><img src="profile/linkedin.png" alt="LinkedIn" width="16" style="vertical-align:middle;" /></a> LinkedIn : [in/ranajitjana](https://linkedin.com/in/ranajitjana)  |  📧 Email : ranajitjana@gmail.com  | 📍 Location : [Bangalore, India](https://maps.app.goo.gl/RsX67o8oCsbXemDr6)
 
 ---
 
@@ -10,7 +10,7 @@ Recognized for delivering high-impact, customer-centric architectures across per
 
 ---
 
-### 🧩 Platform Engineering
+### 📊 Skill Matrix
 
 <table border="1" cellpadding="6" cellspacing="0">
 <tr><td rowspan="30" valign="middle" align="center" bgcolor="#e8e8e8"><b>Platform Engineering</b></td>
@@ -44,10 +44,6 @@ Recognized for delivering high-impact, customer-centric architectures across per
 <tr><td bgcolor="#fafafa">Packer</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
 <tr><td bgcolor="#fafafa">Ansible</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
 <tr><td bgcolor="#f2f2f2" align="center"><b>FinOps</b></td><td bgcolor="#fafafa">Cost Optimization & Cloud Spend Management</td><td bgcolor="#fafafa">██████████░░ Advanced</td></tr>
-</table>
-### 🤖 Artificial Intelligence
-
-<table border="1" cellpadding="6" cellspacing="0">
 <tr><td rowspan="16" valign="middle" align="center" bgcolor="#e8e8e8"><b>Artificial Intelligence</b></td>
 <td rowspan="4" valign="middle" align="center" bgcolor="#f2f2f2"><b>Data Engineering</b></td><td bgcolor="#fafafa">Data Streaming and Pipeline</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
 <tr><td bgcolor="#fafafa">Data Versioning</td><td bgcolor="#fafafa">███████░░░░░ Practitioner</td></tr>
@@ -65,11 +61,6 @@ Recognized for delivering high-impact, customer-centric architectures across per
 <tr><td bgcolor="#fafafa">Observability</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
 <tr><td bgcolor="#fafafa">Evals</td><td bgcolor="#fafafa">████░░░░░░░░ Trained</td></tr>
 <tr><td bgcolor="#fafafa">Agentic Security</td><td bgcolor="#fafafa">███████░░░░░ Practitioner</td></tr>
-</table>
-
-### 👥 Management / Project Delivery & Support
-
-<table border="1" cellpadding="6" cellspacing="0">
 <tr><td rowspan="11" valign="middle" align="center" bgcolor="#e8e8e8"><b>Management / Project Delivery and Support</b></td>
 <td rowspan="3" valign="middle" align="center" bgcolor="#f2f2f2"><b>Team Management</b></td><td bgcolor="#fafafa">Hiring</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
 <tr><td bgcolor="#fafafa">Mentor</td><td bgcolor="#fafafa">██████████░░ Advanced</td></tr>
@@ -82,11 +73,6 @@ Recognized for delivering high-impact, customer-centric architectures across per
 <tr><td bgcolor="#fafafa">Upper Management</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
 <tr><td bgcolor="#fafafa">Client</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
 <tr><td bgcolor="#fafafa">Vendor</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-</table>
-
-### 💻 Backend Application Development
-
-<table border="1" cellpadding="6" cellspacing="0">
 <tr><td rowspan="20" valign="middle" align="center" bgcolor="#e8e8e8"><b>Backend Application Development</b></td>
 <td rowspan="4" valign="middle" align="center" bgcolor="#f2f2f2"><b>Languages</b></td><td bgcolor="#fafafa">Java</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
 <tr><td bgcolor="#fafafa">JavaScript</td><td bgcolor="#fafafa">███████░░░░░ Practitioner</td></tr>
@@ -121,4 +107,4 @@ Recognized for delivering high-impact, customer-centric architectures across per
 
 ---
 
-*[Experience →](experience.md)*
+*[Experience →](profile/experience.md)*
