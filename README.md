@@ -57,7 +57,7 @@ Recognized for delivering high-impact, customer-centric architectures across per
 <tr><td bgcolor="#fdfefd">Ansible</td><td bgcolor="#fdfefd">████████████ Expert</td></tr>
 <tr><td bgcolor="#dce2d4" align="center"><b>FinOps</b></td><td bgcolor="#fefefd">Cost Optimization & Cloud Spend Management</td><td bgcolor="#fefefd">██████████░░ Advanced</td></tr>
 <tr><td rowspan="16" valign="middle" align="center" bgcolor="#c2c2d6"><b>Artificial Intelligence</b></td>
-<td rowspan="4" valign="middle" align="center" bgcolor="#dedee9"><b>Data Engineering</b></td><td bgcolor="#f7f7fa">Data Streaming and Pipeline</td><td bgcolor="#f7f7fa">█████████░░░ Professional</td></tr>
+<td rowspan="4" valign="middle" align="center" bgcolor="#dedee9"><b>Data Engineering</b></td><td bgcolor="#f7f7fa">Data Streaming and Pipeline</td><td bgcolor="#f7f7fa">████████████ Expert</td></tr>
 <tr><td bgcolor="#f7f7fa">Data Versioning</td><td bgcolor="#f7f7fa">███████░░░░░ Practitioner</td></tr>
 <tr><td bgcolor="#f8f8fa">Data Classification and Obfuscation</td><td bgcolor="#f8f8fa">████████████ Expert</td></tr>
 <tr><td bgcolor="#f8f8fb">Data Generation</td><td bgcolor="#f8f8fb">████████████ Expert</td></tr>
