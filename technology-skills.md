@@ -42,7 +42,7 @@
 ---
 
 ### 🔒 Security
-
+- **Container Networking:** Cilium, Falco
 - **Container Network Security:** Cilium Network Policies
 - **Container Security:** Pod Security Admission, Service Accounts, Linux Capabilities, Distroless images
 - **Secrets Management:** External Secret Operator (ESO)
@@ -50,7 +50,7 @@
 - **Encryption:** Asymmetric/Symmetric Encryption, mTLS, AWS KMS/HSM, OpenSSL, Azure KeyVault
 - **Web Security:** OWASP top-10, WAF integration
 - **Supply Chain Security:** SBOM, Cosign image signing, Kyverno signature enforcement
-- **Scanning & SAST:** Snyk, Trivy, GitHub Security, StepCA
+- **Scanning & SAST:** Snyk, Trivy, TruffleHog, GitHub Security, StepCA
 - **Protocols:** SSO, OAuth, Azure App Registration, KeyCloak, Okta
 - **IAM:** AWS IAM, AWS IRSA, Kubernetes RBAC
 - **Compliance:** PCI-DSS, ISO 27001
@@ -59,16 +59,18 @@
 
 ### ☁️ Cloud
 
+- **CSPM:** GuardDuty, AWS Config
 - **Kubernetes:** EKS , AKS
-- **Compute:** EC2, Auto Scaling Groups, Lambda
-- **Storage:** S3, EBS, EFS, RDS, PostgreSQL
-- **Networking:** VPC, Subnets, Internet Gateway, VPC Endpoints, API Gateway, Transit Gateway, VPC Peering, NACL, Route 53, AWS Load Balancer, CloudFront, Reachablity Analyser
-- **Messaging:** SNS, SQS, Kinesis
+- **Compute:** EC2, Auto Scaling Groups, Lambda, AMI, UserData, SSM
+- **Storage:** S3, EBS, EFS
+- **Database:**  RDS, PostgreSQL, Serverless
+- **Networking:** VPC, Subnets, Internet Gateway, Private Link, API Gateway, Transit Gateway, VPC Peering, NACL, Route 53, AWS Load Balancer, CloudFront, Reachablity Analyser
+- **Messaging:** SNS, SQS, Kinesis, Firehose
 - **Caching:** ElastiCache
 - **Monitoring:** CloudWatch, CloudTrail
-- **Secrets & Config:** Secrets Manager, SSM Parameter Store
+- **Secrets & Config:** Secrets Manager, SSM Parameter Store, AppConfig
 - **IAM & Security:** Security Group, AWS IAM, IRSA, SCP, GuardDuty, Azure Entra, Azure App Registrations, WAF
-- **FinOps:** Retention, Savings Plans, Reserved Instances, Cost Explorer, QuickSight
+- **FinOps:** Resource Tagging, Retention policies, Savings Plans, Reserved Instances, Cost Explorer, CUR, QuickSight
 - **AI/ML:** Bedrock
 
 
@@ -98,22 +100,24 @@
 - **Helm:** Helm, Helmfile, Go Templates
 - **GitOps:** Argo CD, Argo Workflows
 - **Registry:** Harbor, Pulp, Certificate Manager
-- **Service Mesh:** Istio
-- **Multi-Cluster:** Multi-region, multi-environment strategy with isolated branch deployments
+- **Service Mesh:** Cilium, Istio
+- **NodeOS:** BottleRocket
+- **Dev workflow:** multi-environment strategy with isolated branch deployments
 - **Security:** Admissions Controller, Pod Security Standards, RBAC, network policies with Cilium/Hubble, image scanning
-- **Deployments:** Rolling updates, blue/green, canary — Argo Rollouts
+- **Deployments:** Rolling updates, blue/green, canary - Argo Rollouts
 - **Auto-scaling:** HPA, VPA, KEDA
+- **Replication:** skopeo
 
 ---
 
 ### 🔭 Observability
 
 - **Dashboards & Metrics:** Grafana, Prometheus, Alertmanager, Alloy, Mimir
-- **Logs:** Loki, ELK Stack (Elasticsearch, Logstash, Kibana), Fluentd, AWS CloudWatch
+- **Logs:** Loki, promtail, ELK Stack (Elasticsearch, Logstash, Kibana), Fluentd, AWS CloudWatch
 - **Traces:** Tempo, Jaeger
-- **APM:** Datadog, Dynatrace
+- **APM:** Datadog, Dynatrace, Pyroscope
 - **AI Observability:** Arize Phoenix, LangFuse, LangSmith
-- **Container:** Hubble network visibility, Kiyali
+- **Container:** Cilium Hubble, Kiyali
 
 ---
 
@@ -133,16 +137,16 @@
 - **Code Quality:** SonarQube, Synk
 - **Artifacts:** Nexus, Artifactory
 - **Container Scanning:** Trivy
-- **Deployments:** Argo CD
+- **Deployments:** Argo CD, Terraform
 
 ---
 
 ### 🏗️ Infrastructure as Code & Automation
 
-- **Terraform:** Multi-cloud declarative provisioning — AWS and Azure
+- **Terraform:** Multi-cloud declarative provisioning - AWS and Azure
 - **Modules:** Reusable Terraform modules for compute, networking, and storage
 - **State Management:** S3 + DynamoDB backend with team-safe locking
-- **Pipeline Integration:** Terraform + GitHub Actions — fully automated infra provisioning
+- **Pipeline Integration:** Terraform + GitHub Actions - fully automated infra provisioning
 - **New Regions:** Automated region rollouts via Terraform + Claude-based agents
 - **Ansible:** Infrastructure provisioning and configuration management
 - **Scripting:** Bash/Shell, cloud automation, Kubernetes scripting, pipeline scripting
@@ -160,6 +164,7 @@
 - **Messaging:** IBM MQ, MDB, JMS, Rabbit MQ
 - **DB-ORM:** PL/SQL, Oracle, JPA, Hibernate, ERWIN
 - **Security:** Cryptography, encryption
+- **Perfomance Engineering:** JMeter, APM , Dynatrace
 ---
 
 ### 🔗 Public Profiles

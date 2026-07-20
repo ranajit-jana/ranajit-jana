@@ -45,7 +45,6 @@ Recognized for delivering high-impact, customer-centric architectures across per
 <tr><td bgcolor="#fafafa">Ansible</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
 <tr><td bgcolor="#f2f2f2" align="center"><b>FinOps</b></td><td bgcolor="#fafafa">Cost Optimization & Cloud Spend Management</td><td bgcolor="#fafafa">██████████░░ Advanced</td></tr>
 </table>
-
 ### 🤖 Artificial Intelligence
 
 <table border="1" cellpadding="6" cellspacing="0">
