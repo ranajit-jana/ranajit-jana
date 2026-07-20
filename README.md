@@ -13,87 +13,87 @@ Recognized for delivering high-impact, customer-centric architectures across per
 ### 📊 Skill Matrix
 
 <table border="1" cellpadding="6" cellspacing="0">
-<tr><td rowspan="30" valign="middle" align="center" bgcolor="#e8e8e8"><b>Platform Engineering</b></td>
-<td rowspan="3" valign="middle" align="center" bgcolor="#f2f2f2"><b>Cloud</b></td><td bgcolor="#fafafa">AWS</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Azure</td><td bgcolor="#fafafa">███████░░░░░ Practitioner</td></tr>
-<tr><td bgcolor="#fafafa">Google</td><td bgcolor="#fafafa">███████░░░░░ Practitioner</td></tr>
-<tr><td rowspan="2" valign="middle" align="center" bgcolor="#f2f2f2"><b>Containers</b></td><td bgcolor="#fafafa">Docker</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Kubernetes</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td rowspan="6" valign="middle" align="center" bgcolor="#f2f2f2"><b>SRE</b></td><td bgcolor="#fafafa">Grafana</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">LLM Observability</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Disaster Recovery</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td bgcolor="#fafafa">Alerting</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Dashboard</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Auto Remediation</td><td bgcolor="#fafafa">███████░░░░░ Practitioner</td></tr>
-<tr><td rowspan="4" valign="middle" align="center" bgcolor="#f2f2f2"><b>DevOps</b></td><td bgcolor="#fafafa">Developer Workflows & Metrics</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Continuous Integration</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Continuous Deployment</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Artifact Management & Supply Chain</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td rowspan="9" valign="middle" align="center" bgcolor="#f2f2f2"><b>Security</b></td><td bgcolor="#fafafa">IAM</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">OIDC</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Container Security</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Workload Identity</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">SSO</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Network Isolation</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Secret & Configuration Management</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Policy Enforcement</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Encryption / PKI</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td rowspan="5" valign="middle" align="center" bgcolor="#f2f2f2"><b>Automation</b></td><td bgcolor="#fafafa">Terraform</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Helmfile & Helmcharts</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">GitOps</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Packer</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Ansible</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#f2f2f2" align="center"><b>FinOps</b></td><td bgcolor="#fafafa">Cost Optimization & Cloud Spend Management</td><td bgcolor="#fafafa">██████████░░ Advanced</td></tr>
-<tr><td rowspan="16" valign="middle" align="center" bgcolor="#e8e8e8"><b>Artificial Intelligence</b></td>
-<td rowspan="4" valign="middle" align="center" bgcolor="#f2f2f2"><b>Data Engineering</b></td><td bgcolor="#fafafa">Data Streaming and Pipeline</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td bgcolor="#fafafa">Data Versioning</td><td bgcolor="#fafafa">███████░░░░░ Practitioner</td></tr>
-<tr><td bgcolor="#fafafa">Data Classification and Obfuscation</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Data Generation</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td rowspan="4" valign="middle" align="center" bgcolor="#f2f2f2"><b>Data Scientist</b></td><td bgcolor="#fafafa">Machine Learning</td><td bgcolor="#fafafa">████░░░░░░░░ Trained</td></tr>
-<tr><td bgcolor="#fafafa">Deep Learning</td><td bgcolor="#fafafa">████░░░░░░░░ Trained</td></tr>
-<tr><td bgcolor="#fafafa">Feature Engineering</td><td bgcolor="#fafafa">████░░░░░░░░ Trained</td></tr>
-<tr><td bgcolor="#fafafa">Hyperparameter Tuning</td><td bgcolor="#fafafa">████░░░░░░░░ Trained</td></tr>
-<tr><td rowspan="2" valign="middle" align="center" bgcolor="#f2f2f2"><b>MLOps</b></td><td bgcolor="#fafafa">Hosting</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td bgcolor="#fafafa">Observability</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td rowspan="6" valign="middle" align="center" bgcolor="#f2f2f2"><b>Agentic AI</b></td><td bgcolor="#fafafa">Prompt and Context Engineering</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td bgcolor="#fafafa">MCP and Tools</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td bgcolor="#fafafa">RAG, Vector DB</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td bgcolor="#fafafa">Observability</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td bgcolor="#fafafa">Evals</td><td bgcolor="#fafafa">████░░░░░░░░ Trained</td></tr>
-<tr><td bgcolor="#fafafa">Agentic Security</td><td bgcolor="#fafafa">███████░░░░░ Practitioner</td></tr>
-<tr><td rowspan="11" valign="middle" align="center" bgcolor="#e8e8e8"><b>Management / Project Delivery and Support</b></td>
-<td rowspan="3" valign="middle" align="center" bgcolor="#f2f2f2"><b>Team Management</b></td><td bgcolor="#fafafa">Hiring</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Mentor</td><td bgcolor="#fafafa">██████████░░ Advanced</td></tr>
-<tr><td bgcolor="#fafafa">Retain</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td rowspan="4" valign="middle" align="center" bgcolor="#f2f2f2"><b>Project Management</b></td><td bgcolor="#fafafa">Plan</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td bgcolor="#fafafa">KPI</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td bgcolor="#fafafa">Risk</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td bgcolor="#fafafa">Cost</td><td bgcolor="#fafafa">███████░░░░░ Practitioner</td></tr>
-<tr><td rowspan="4" valign="middle" align="center" bgcolor="#f2f2f2"><b>Stakeholder Management</b></td><td bgcolor="#fafafa">Business Owners</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td bgcolor="#fafafa">Upper Management</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td bgcolor="#fafafa">Client</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td bgcolor="#fafafa">Vendor</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td rowspan="20" valign="middle" align="center" bgcolor="#e8e8e8"><b>Backend Application Development</b></td>
-<td rowspan="4" valign="middle" align="center" bgcolor="#f2f2f2"><b>Languages</b></td><td bgcolor="#fafafa">Java</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">JavaScript</td><td bgcolor="#fafafa">███████░░░░░ Practitioner</td></tr>
-<tr><td bgcolor="#fafafa">Python</td><td bgcolor="#fafafa">███████░░░░░ Practitioner</td></tr>
-<tr><td bgcolor="#fafafa">SQL</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td rowspan="9" valign="middle" align="center" bgcolor="#f2f2f2"><b>Architecture</b></td><td bgcolor="#fafafa">API</td><td bgcolor="#fafafa">██████████░░ Advanced</td></tr>
-<tr><td bgcolor="#fafafa">Event Driven</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Domain Driven Design</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Enterprise Integration Patterns</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">SOLID</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Design Patterns</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Datastructures</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td bgcolor="#fafafa">Microservices</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">Caching</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td rowspan="5" valign="middle" align="center" bgcolor="#f2f2f2"><b>Performance Engineering</b></td><td bgcolor="#fafafa">Optimized Code</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">APM - Profiling</td><td bgcolor="#fafafa">██████████░░ Advanced</td></tr>
-<tr><td bgcolor="#fafafa">DB Queries, Execution Plans</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td bgcolor="#fafafa">Multithread and Async Calls</td><td bgcolor="#fafafa">█████████░░░ Professional</td></tr>
-<tr><td bgcolor="#fafafa">Memory Management</td><td bgcolor="#fafafa">███████░░░░░ Practitioner</td></tr>
-<tr><td rowspan="2" valign="middle" align="center" bgcolor="#f2f2f2"><b>Security</b></td><td bgcolor="#fafafa">SCA</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fafafa">SAST / DAST / OWASP Top 10</td><td bgcolor="#fafafa">████████████ Expert</td></tr>
+<tr><td rowspan="11" valign="middle" align="center" bgcolor="#c2d6d6"><b>Management / Project Delivery and Support</b></td>
+<td rowspan="3" valign="middle" align="center" bgcolor="#deeaea"><b>Team Management</b></td><td bgcolor="#f7fafa">Hiring</td><td bgcolor="#f7fafa">████████████ Expert</td></tr>
+<tr><td bgcolor="#f8fafa">Mentor</td><td bgcolor="#f8fafa">████████████ Expert</td></tr>
+<tr><td bgcolor="#f9fbfb">Retain</td><td bgcolor="#f9fbfb">████████████ Expert</td></tr>
+<tr><td rowspan="4" valign="middle" align="center" bgcolor="#deeaea"><b>Project Management</b></td><td bgcolor="#f9fbfb">Plan</td><td bgcolor="#f9fbfb">████████████ Expert</td></tr>
+<tr><td bgcolor="#fafcfc">KPI</td><td bgcolor="#fafcfc">████████████ Expert</td></tr>
+<tr><td bgcolor="#fbfcfc">Risk</td><td bgcolor="#fbfcfc">████████████ Expert</td></tr>
+<tr><td bgcolor="#fcfdfd">Cost</td><td bgcolor="#fcfdfd">██████████░░ Advanced</td></tr>
+<tr><td rowspan="4" valign="middle" align="center" bgcolor="#deeaea"><b>Stakeholder Management</b></td><td bgcolor="#fcfdfd">Business Owners</td><td bgcolor="#fcfdfd">████████████ Expert</td></tr>
+<tr><td bgcolor="#fdfefe">Upper Management</td><td bgcolor="#fdfefe">████████████ Expert</td></tr>
+<tr><td bgcolor="#fefefe">Client</td><td bgcolor="#fefefe">█████████░░░ Professional</td></tr>
+<tr><td bgcolor="#ffffff">Vendor</td><td bgcolor="#ffffff">█████████░░░ Professional</td></tr>
+<tr><td rowspan="30" valign="middle" align="center" bgcolor="#c0c9b3"><b>Platform Engineering</b></td>
+<td rowspan="3" valign="middle" align="center" bgcolor="#dce2d4"><b>Cloud</b></td><td bgcolor="#f6f7f4">AWS</td><td bgcolor="#f6f7f4">████████████ Expert</td></tr>
+<tr><td bgcolor="#f6f8f5">Azure</td><td bgcolor="#f6f8f5">███████░░░░░ Practitioner</td></tr>
+<tr><td bgcolor="#f7f8f5">Google</td><td bgcolor="#f7f8f5">███████░░░░░ Practitioner</td></tr>
+<tr><td rowspan="2" valign="middle" align="center" bgcolor="#dce2d4"><b>Containers</b></td><td bgcolor="#f7f8f5">Docker</td><td bgcolor="#f7f8f5">████████████ Expert</td></tr>
+<tr><td bgcolor="#f7f8f6">Kubernetes</td><td bgcolor="#f7f8f6">████████████ Expert</td></tr>
+<tr><td rowspan="6" valign="middle" align="center" bgcolor="#dce2d4"><b>SRE</b></td><td bgcolor="#f7f9f6">Grafana</td><td bgcolor="#f7f9f6">████████████ Expert</td></tr>
+<tr><td bgcolor="#f8f9f6">LLM Observability</td><td bgcolor="#f8f9f6">████████████ Expert</td></tr>
+<tr><td bgcolor="#f8f9f7">Disaster Recovery</td><td bgcolor="#f8f9f7">█████████░░░ Professional</td></tr>
+<tr><td bgcolor="#f8f9f7">Alerting</td><td bgcolor="#f8f9f7">████████████ Expert</td></tr>
+<tr><td bgcolor="#f9f9f7">Dashboard</td><td bgcolor="#f9f9f7">████████████ Expert</td></tr>
+<tr><td bgcolor="#f9faf8">Auto Remediation</td><td bgcolor="#f9faf8">███████░░░░░ Practitioner</td></tr>
+<tr><td rowspan="4" valign="middle" align="center" bgcolor="#dce2d4"><b>DevOps</b></td><td bgcolor="#f9faf8">Developer Workflows & Metrics</td><td bgcolor="#f9faf8">████████████ Expert</td></tr>
+<tr><td bgcolor="#f9faf8">Continuous Integration</td><td bgcolor="#f9faf8">████████████ Expert</td></tr>
+<tr><td bgcolor="#fafaf8">Continuous Deployment</td><td bgcolor="#fafaf8">████████████ Expert</td></tr>
+<tr><td bgcolor="#fafbf9">Artifact Management & Supply Chain</td><td bgcolor="#fafbf9">████████████ Expert</td></tr>
+<tr><td rowspan="9" valign="middle" align="center" bgcolor="#dce2d4"><b>Security</b></td><td bgcolor="#fafbf9">IAM</td><td bgcolor="#fafbf9">████████████ Expert</td></tr>
+<tr><td bgcolor="#fafbf9">OIDC</td><td bgcolor="#fafbf9">████████████ Expert</td></tr>
+<tr><td bgcolor="#fbfbfa">Container Security</td><td bgcolor="#fbfbfa">████████████ Expert</td></tr>
+<tr><td bgcolor="#fbfbfa">Workload Identity</td><td bgcolor="#fbfbfa">████████████ Expert</td></tr>
+<tr><td bgcolor="#fbfcfa">SSO</td><td bgcolor="#fbfcfa">████████████ Expert</td></tr>
+<tr><td bgcolor="#fbfcfb">Network Isolation</td><td bgcolor="#fbfcfb">████████████ Expert</td></tr>
+<tr><td bgcolor="#fcfcfb">Secret & Configuration Management</td><td bgcolor="#fcfcfb">████████████ Expert</td></tr>
+<tr><td bgcolor="#fcfcfb">Policy Enforcement</td><td bgcolor="#fcfcfb">████████████ Expert</td></tr>
+<tr><td bgcolor="#fcfdfc">Encryption / PKI</td><td bgcolor="#fcfdfc">████████████ Expert</td></tr>
+<tr><td rowspan="5" valign="middle" align="center" bgcolor="#dce2d4"><b>Automation</b></td><td bgcolor="#fcfdfc">Terraform</td><td bgcolor="#fcfdfc">████████████ Expert</td></tr>
+<tr><td bgcolor="#fdfdfc">Helmfile & Helmcharts</td><td bgcolor="#fdfdfc">████████████ Expert</td></tr>
+<tr><td bgcolor="#fdfdfd">GitOps</td><td bgcolor="#fdfdfd">████████████ Expert</td></tr>
+<tr><td bgcolor="#fdfdfd">Packer</td><td bgcolor="#fdfdfd">████████████ Expert</td></tr>
+<tr><td bgcolor="#fdfefd">Ansible</td><td bgcolor="#fdfefd">████████████ Expert</td></tr>
+<tr><td bgcolor="#dce2d4" align="center"><b>FinOps</b></td><td bgcolor="#fefefd">Cost Optimization & Cloud Spend Management</td><td bgcolor="#fefefd">██████████░░ Advanced</td></tr>
+<tr><td rowspan="16" valign="middle" align="center" bgcolor="#c2c2d6"><b>Artificial Intelligence</b></td>
+<td rowspan="4" valign="middle" align="center" bgcolor="#dedee9"><b>Data Engineering</b></td><td bgcolor="#f7f7fa">Data Streaming and Pipeline</td><td bgcolor="#f7f7fa">█████████░░░ Professional</td></tr>
+<tr><td bgcolor="#f7f7fa">Data Versioning</td><td bgcolor="#f7f7fa">███████░░░░░ Practitioner</td></tr>
+<tr><td bgcolor="#f8f8fa">Data Classification and Obfuscation</td><td bgcolor="#f8f8fa">████████████ Expert</td></tr>
+<tr><td bgcolor="#f8f8fb">Data Generation</td><td bgcolor="#f8f8fb">████████████ Expert</td></tr>
+<tr><td rowspan="4" valign="middle" align="center" bgcolor="#dedee9"><b>Data Scientist</b></td><td bgcolor="#f9f9fb">Machine Learning</td><td bgcolor="#f9f9fb">████░░░░░░░░ Trained</td></tr>
+<tr><td bgcolor="#f9f9fb">Deep Learning</td><td bgcolor="#f9f9fb">████░░░░░░░░ Trained</td></tr>
+<tr><td bgcolor="#fafafc">Feature Engineering</td><td bgcolor="#fafafc">████░░░░░░░░ Trained</td></tr>
+<tr><td bgcolor="#fafafc">Hyperparameter Tuning</td><td bgcolor="#fafafc">████░░░░░░░░ Trained</td></tr>
+<tr><td rowspan="2" valign="middle" align="center" bgcolor="#dedee9"><b>MLOps</b></td><td bgcolor="#fbfbfc">Hosting</td><td bgcolor="#fbfbfc">█████████░░░ Professional</td></tr>
+<tr><td bgcolor="#fbfbfd">Observability</td><td bgcolor="#fbfbfd">█████████░░░ Professional</td></tr>
+<tr><td rowspan="6" valign="middle" align="center" bgcolor="#dedee9"><b>Agentic AI</b></td><td bgcolor="#fcfcfd">Prompt and Context Engineering</td><td bgcolor="#fcfcfd">█████████░░░ Professional</td></tr>
+<tr><td bgcolor="#fcfcfd">MCP and Tools</td><td bgcolor="#fcfcfd">█████████░░░ Professional</td></tr>
+<tr><td bgcolor="#fdfdfe">RAG, Vector DB</td><td bgcolor="#fdfdfe">█████████░░░ Professional</td></tr>
+<tr><td bgcolor="#fdfdfe">Observability</td><td bgcolor="#fdfdfe">█████████░░░ Professional</td></tr>
+<tr><td bgcolor="#fefefe">Evals</td><td bgcolor="#fefefe">████░░░░░░░░ Trained</td></tr>
+<tr><td bgcolor="#fefeff">Agentic Security</td><td bgcolor="#fefeff">███████░░░░░ Practitioner</td></tr>
+<tr><td rowspan="20" valign="middle" align="center" bgcolor="#ffbb99"><b>Backend Application Development</b></td>
+<td rowspan="4" valign="middle" align="center" bgcolor="#ffdac7"><b>Languages</b></td><td bgcolor="#fff6f1">Java</td><td bgcolor="#fff6f1">████████████ Expert</td></tr>
+<tr><td bgcolor="#fff6f2">JavaScript</td><td bgcolor="#fff6f2">███████░░░░░ Practitioner</td></tr>
+<tr><td bgcolor="#fff7f3">Python</td><td bgcolor="#fff7f3">███████░░░░░ Practitioner</td></tr>
+<tr><td bgcolor="#fff7f3">SQL</td><td bgcolor="#fff7f3">████████████ Expert</td></tr>
+<tr><td rowspan="9" valign="middle" align="center" bgcolor="#ffdac7"><b>Architecture</b></td><td bgcolor="#fff8f4">API</td><td bgcolor="#fff8f4">██████████░░ Advanced</td></tr>
+<tr><td bgcolor="#fff8f5">Event Driven</td><td bgcolor="#fff8f5">████████████ Expert</td></tr>
+<tr><td bgcolor="#fff8f5">Domain Driven Design</td><td bgcolor="#fff8f5">████████████ Expert</td></tr>
+<tr><td bgcolor="#fff9f6">Enterprise Integration Patterns</td><td bgcolor="#fff9f6">████████████ Expert</td></tr>
+<tr><td bgcolor="#fff9f7">SOLID</td><td bgcolor="#fff9f7">████████████ Expert</td></tr>
+<tr><td bgcolor="#fffaf7">Design Patterns</td><td bgcolor="#fffaf7">████████████ Expert</td></tr>
+<tr><td bgcolor="#fffaf8">Datastructures</td><td bgcolor="#fffaf8">█████████░░░ Professional</td></tr>
+<tr><td bgcolor="#fffbf8">Microservices</td><td bgcolor="#fffbf8">████████████ Expert</td></tr>
+<tr><td bgcolor="#fffbf9">Caching</td><td bgcolor="#fffbf9">█████████░░░ Professional</td></tr>
+<tr><td rowspan="5" valign="middle" align="center" bgcolor="#ffdac7"><b>Performance Engineering</b></td><td bgcolor="#fffbfa">Optimized Code</td><td bgcolor="#fffbfa">████████████ Expert</td></tr>
+<tr><td bgcolor="#fffcfa">APM - Profiling</td><td bgcolor="#fffcfa">██████████░░ Advanced</td></tr>
+<tr><td bgcolor="#fffcfb">DB Queries, Execution Plans</td><td bgcolor="#fffcfb">█████████░░░ Professional</td></tr>
+<tr><td bgcolor="#fffdfc">Multithread and Async Calls</td><td bgcolor="#fffdfc">█████████░░░ Professional</td></tr>
+<tr><td bgcolor="#fffdfc">Memory Management</td><td bgcolor="#fffdfc">███████░░░░░ Practitioner</td></tr>
+<tr><td rowspan="2" valign="middle" align="center" bgcolor="#ffdac7"><b>Security</b></td><td bgcolor="#fffefd">SCA</td><td bgcolor="#fffefd">████████████ Expert</td></tr>
+<tr><td bgcolor="#fffefe">SAST / DAST / OWASP Top 10</td><td bgcolor="#fffefe">████████████ Expert</td></tr>
 </table>
 
 **Proficiency Scale**
