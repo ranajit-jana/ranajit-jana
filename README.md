@@ -46,7 +46,7 @@ Recognized for delivering high-impact, customer-centric architectures across per
 <tr><td bgcolor="#fbfbfa">Container Security</td><td bgcolor="#fbfbfa">████████████ Expert</td></tr>
 <tr><td bgcolor="#fbfbfa">Workload Identity</td><td bgcolor="#fbfbfa">████████████ Expert</td></tr>
 <tr><td bgcolor="#fbfcfa">SSO</td><td bgcolor="#fbfcfa">████████████ Expert</td></tr>
-<tr><td bgcolor="#fbfcfb">Network Isolation</td><td bgcolor="#fbfcfb">████████████ Expert</td></tr>
+<tr><td bgcolor="#fbfcfb">Network Segmentation and Zero-Trust</td><td bgcolor="#fbfcfb">████████████ Expert</td></tr>
 <tr><td bgcolor="#fcfcfb">Secret & Configuration Management</td><td bgcolor="#fcfcfb">████████████ Expert</td></tr>
 <tr><td bgcolor="#fcfcfb">Policy Enforcement</td><td bgcolor="#fcfcfb">████████████ Expert</td></tr>
 <tr><td bgcolor="#fcfdfc">Encryption / PKI</td><td bgcolor="#fcfdfc">████████████ Expert</td></tr>
